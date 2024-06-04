@@ -1,0 +1,13 @@
+{
+	"n_targets": 114,
+	"n_bootstraps": 0,
+	"n_processed": 203883,
+	"n_pseudoaligned": 24509,
+	"n_unique": 1402,
+	"p_pseudoaligned": 12.0,
+	"p_unique": 0.7,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue Jun  4 13:45:29 2024",
+	"call": "/home/shared/kallisto/kallisto quant -i ../output/03-kallisto/18slaby.index -o ../output/04-kallisto/LA89_S54 -t 20 --fr-stranded --rf-stranded ../data/trimmed/LA89_S54_L001_R1_001_trim.fastq ../data/trimmed/LA89_S54_L001_R2_001_trim.fastq"
+}

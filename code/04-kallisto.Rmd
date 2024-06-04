@@ -1,5 +1,5 @@
 ---
-title: "03-kallisto"
+title: "04-kallisto"
 author: "Steven Roberts"
 date: "`r format(Sys.time(), '%d %B, %Y')`"  
 output: 
@@ -43,12 +43,12 @@ knitr::opts_chunk$set(
 ```
 
 
-
+ALL samples 
 
 Reads
 
 ```{r, engine='bash', eval=TRUE}
-ls ../data/
+ls ../data/trimmed/*
 ```
 
 #laby 18s
@@ -61,20 +61,20 @@ head ../data/*fasta
 
 ```{bash}
 /home/shared/kallisto/kallisto index \
--i ../output/03-kallisto/18slaby.index \
+-i ../output/04-kallisto/18slaby.index \
 ../data/laby18s-sequence.fasta
 ```
 
 
 ```{bash}
-find ../data/*_L001_R1_001.fastq.gz | xargs basename -s _L001_R1_001.fastq.gz \
+find ../data/trimmed/*_L001_R1_001_trim.fastq | xargs basename -s _L001_R1_001_trim.fastq \
 | xargs -I{} sh -c '/home/shared/kallisto/kallisto quant \
--i ../output/03-kallisto/18slaby.index \
--o ../output/03-kallisto/{} \
+-i ../output/04-kallisto/18slaby.index \
+-o ../output/04-kallisto/{} \
 -t 20 \
---fr-stranded ../data/{}_L001_R1_001.fastq.gz \
---rf-stranded ../data/{}_L001_R2_001.fastq.gz \
-> ../output/03-kallisto/{}_kal.stdout 2> ../output/03-kallisto/{}_kal.stderr'
+--fr-stranded ../data/{}_L001_R1_001_trim.fastq \
+--rf-stranded ../data/{}_L001_R2_001_trim.fastq \
+> ../output/04-kallisto/{}_kal.stdout 2> ../output/04-kallisto/{}_kal.stderr'
 ```
 
 
@@ -84,8 +84,8 @@ conda activate
 which multiqc
 
 
-multiqc ../output/03-kallisto/ \
--o ../output/03-kallisto/
+multiqc ../output/04-kallisto/ \
+-o ../output/04-kallisto/
 ```
 
 ```{bash}
@@ -98,9 +98,9 @@ cat ../data/*fasta | grep ">"
 perl /home/shared/trinityrnaseq-v2.12.0/util/abundance_estimates_to_matrix.pl \
 --est_method kallisto \
     --gene_trans_map none \
-    --out_prefix ../output/03-kallisto/comb \
+    --out_prefix ../output/04-kallisto/comb \
     --name_sample_by_basedir \
-    ../output/03-kallisto/*/abundance.tsv \
+    ../output/04-kallisto/*/abundance.tsv \
 ```
 
 

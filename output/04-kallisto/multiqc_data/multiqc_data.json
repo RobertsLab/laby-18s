@@ -1,0 +1,2762 @@
+{
+    "report_data_sources": {
+        "Kallisto": {
+            "all_sections": {
+                "LA171_S19_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA171_S19_kal.stderr",
+                "LA149_S41_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA149_S41_kal.stderr",
+                "LA187_S68_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA187_S68_kal.stderr",
+                "BBFL4_S64_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/BBFL4_S64_kal.stderr",
+                "BCEL5_S31_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/BCEL5_S31_kal.stderr",
+                "LA115_S50_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA115_S50_kal.stderr",
+                "LA141_S52_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA141_S52_kal.stderr",
+                "242_S21_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/242_S21_kal.stderr",
+                "176_S80_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/176_S80_kal.stderr",
+                "LA162_S6_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA162_S6_kal.stderr",
+                "LA180_S91_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA180_S91_kal.stderr",
+                "LA132_S16_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA132_S16_kal.stderr",
+                "LA82_S63_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA82_S63_kal.stderr",
+                "LA7_S47_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA7_S47_kal.stderr",
+                "LA167_S66_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA167_S66_kal.stderr",
+                "ORDL8_S24_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/ORDL8_S24_kal.stderr",
+                "LA6_S36_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA6_S36_kal.stderr",
+                "239_S74_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/239_S74_kal.stderr",
+                "LA168_S78_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA168_S78_kal.stderr",
+                "287_S87_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/287_S87_kal.stderr",
+                "LA137_S28_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA137_S28_kal.stderr",
+                "LA103_S61_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA103_S61_kal.stderr",
+                "LA125_S39_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA125_S39_kal.stderr",
+                "LA146_S5_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA146_S5_kal.stderr",
+                "LA22_S15_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA22_S15_kal.stderr",
+                "SDCL10_S48_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/SDCL10_S48_kal.stderr",
+                "LA138_S40_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA138_S40_kal.stderr",
+                "LA102_S49_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA102_S49_kal.stderr",
+                "265_S52_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/265_S52_kal.stderr",
+                "LA31_S5_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA31_S5_kal.stderr",
+                "274_S17_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/274_S17_kal.stderr",
+                "AKAL9_S37_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/AKAL9_S37_kal.stderr",
+                "LA182_S8_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA182_S8_kal.stderr",
+                "267_S64_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/267_S64_kal.stderr",
+                "247_S86_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/247_S86_kal.stderr",
+                "LA67_S52_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA67_S52_kal.stderr",
+                "LA126_S51_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA126_S51_kal.stderr",
+                "CB24_S23_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/CB24_S23_kal.stderr",
+                "LA143_S76_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA143_S76_kal.stderr",
+                "58_S19_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/58_S19_kal.stderr",
+                "LA148_S29_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA148_S29_kal.stderr",
+                "LA48_S60_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA48_S60_kal.stderr",
+                "LA142_S64_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA142_S64_kal.stderr",
+                "LA45_S28_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA45_S28_kal.stderr",
+                "LA123_S15_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA123_S15_kal.stderr",
+                "LA87_S32_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA87_S32_kal.stderr",
+                "LA38_S59_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA38_S59_kal.stderr",
+                "LA161_S89_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA161_S89_kal.stderr",
+                "LA172_S31_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA172_S31_kal.stderr",
+                "LA66_S41_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA66_S41_kal.stderr",
+                "LA153_S77_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA153_S77_kal.stderr",
+                "244_S45_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/244_S45_kal.stderr",
+                "155_S44_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/155_S44_kal.stderr",
+                "LA122_S3_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA122_S3_kal.stderr",
+                "258_S81_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/258_S81_kal.stderr",
+                "ORCL9_S32_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/ORCL9_S32_kal.stderr",
+                "139_S91_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/139_S91_kal.stderr",
+                "LA129_S87_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA129_S87_kal.stderr",
+                "LA145_S88_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA145_S88_kal.stderr",
+                "LA96_S44_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA96_S44_kal.stderr",
+                "LA188_S80_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA188_S80_kal.stderr",
+                "LA104_S73_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA104_S73_kal.stderr",
+                "228_S9_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/228_S9_kal.stderr",
+                "ORCL8_S16_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/ORCL8_S16_kal.stderr",
+                "54_S7_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/54_S7_kal.stderr",
+                "LA124_S27_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA124_S27_kal.stderr",
+                "LA184_S32_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA184_S32_kal.stderr",
+                "LA116_S62_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA116_S62_kal.stderr",
+                "LA164_S30_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA164_S30_kal.stderr",
+                "LA100_S25_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA100_S25_kal.stderr",
+                "LA94_S22_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA94_S22_kal.stderr",
+                "LA91_S74_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA91_S74_kal.stderr",
+                "LA101_S37_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA101_S37_kal.stderr",
+                "LA179_S79_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA179_S79_kal.stderr",
+                "LA185_S44_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA185_S44_kal.stderr",
+                "WAFL8_S8_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/WAFL8_S8_kal.stderr",
+                "LA150_S53_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA150_S53_kal.stderr",
+                "LA108_S14_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA108_S14_kal.stderr",
+                "LA166_S54_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA166_S54_kal.stderr",
+                "BCQL3_S45_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/BCQL3_S45_kal.stderr",
+                "LA105_S85_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA105_S85_kal.stderr",
+                "LA64_S19_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA64_S19_kal.stderr",
+                "LA39_S69_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA39_S69_kal.stderr",
+                "SDBL5_S40_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/SDBL5_S40_kal.stderr",
+                "AKDL5_S15_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/AKDL5_S15_kal.stderr",
+                "LA80_S42_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA80_S42_kal.stderr",
+                "LA183_S20_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA183_S20_kal.stderr",
+                "286_S75_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/286_S75_kal.stderr",
+                "LA173_S43_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA173_S43_kal.stderr",
+                "LA118_S74_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA118_S74_kal.stderr",
+                "210_S85_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/210_S85_kal.stderr",
+                "AKFL10_S7_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/AKFL10_S7_kal.stderr",
+                "LA41_S6_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA41_S6_kal.stderr",
+                "LA34_S16_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA34_S16_kal.stderr",
+                "LA40_S79_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA40_S79_kal.stderr",
+                "LA63_S8_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA63_S8_kal.stderr",
+                "195_S1_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/195_S1_kal.stderr",
+                "212_S6_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/212_S6_kal.stderr",
+                "LA170_S7_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA170_S7_kal.stderr",
+                "221_S26_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/221_S26_kal.stderr",
+                "WAAL6_S63_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/WAAL6_S63_kal.stderr",
+                "LA110_S26_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA110_S26_kal.stderr",
+                "LA130_S4_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA130_S4_kal.stderr",
+                "259_S51_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/259_S51_kal.stderr",
+                "LA163_S18_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA163_S18_kal.stderr",
+                "216_S42_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/216_S42_kal.stderr",
+                "LA128_S75_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA128_S75_kal.stderr",
+                "LA121_S86_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA121_S86_kal.stderr",
+                "SDAL17_S53_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/SDAL17_S53_kal.stderr",
+                "LA98_S13_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA98_S13_kal.stderr",
+                "LA186_S56_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA186_S56_kal.stderr",
+                "LA62_S81_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA62_S81_kal.stderr",
+                "LA147_S17_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA147_S17_kal.stderr",
+                "CB26_S39_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/CB26_S39_kal.stderr",
+                "LA30_S78_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA30_S78_kal.stderr",
+                "276_S41_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/276_S41_kal.stderr",
+                "CB39_S56_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/CB39_S56_kal.stderr",
+                "LA177_S67_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA177_S67_kal.stderr",
+                "LA151_S65_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA151_S65_kal.stderr",
+                "269_S88_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/269_S88_kal.stderr",
+                "278_S93_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/278_S93_kal.stderr",
+                "LA114_S38_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA114_S38_kal.stderr",
+                "WABL8_S55_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/WABL8_S55_kal.stderr",
+                "LA106_S2_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA106_S2_kal.stderr",
+                "LA165_S42_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA165_S42_kal.stderr",
+                "LA175_S55_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA175_S55_kal.stderr",
+                "LA127_S63_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA127_S63_kal.stderr",
+                "BCAL4_S47_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/BCAL4_S47_kal.stderr",
+                "LA89_S54_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA89_S54_kal.stderr",
+                "LA95_S33_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA95_S33_kal.stderr",
+                "LA169_S90_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA169_S90_kal.stderr",
+                "BBDL4_S61_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/BBDL4_S61_kal.stderr",
+                "LA97_S1_L001_R1_001_trim": "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto/LA97_S1_kal.stderr"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "LA171_S19_L001_R1_001_trim": {
+                "total_reads": 70768.0,
+                "pseudoaligned_reads": 1496.0,
+                "not_pseudoaligned_reads": 69272.0,
+                "percent_aligned": 2.113949807822745,
+                "fragment_length": 0.0
+            },
+            "LA149_S41_L001_R1_001_trim": {
+                "total_reads": 62182.0,
+                "pseudoaligned_reads": 1194.0,
+                "not_pseudoaligned_reads": 60988.0,
+                "percent_aligned": 1.9201698240648417,
+                "fragment_length": 0.0
+            },
+            "LA187_S68_L001_R1_001_trim": {
+                "total_reads": 29357.0,
+                "pseudoaligned_reads": 14546.0,
+                "not_pseudoaligned_reads": 14811.0,
+                "percent_aligned": 49.54865960418299,
+                "fragment_length": 0.0
+            },
+            "BBFL4_S64_L001_R1_001_trim": {
+                "total_reads": 696930.0,
+                "pseudoaligned_reads": 276198.0,
+                "not_pseudoaligned_reads": 420732.0,
+                "percent_aligned": 39.63066592053721,
+                "fragment_length": 0.0
+            },
+            "BCEL5_S31_L001_R1_001_trim": {
+                "total_reads": 336766.0,
+                "pseudoaligned_reads": 149494.0,
+                "not_pseudoaligned_reads": 187272.0,
+                "percent_aligned": 44.391060855312,
+                "fragment_length": 0.0
+            },
+            "LA115_S50_L001_R1_001_trim": {
+                "total_reads": 46508.0,
+                "pseudoaligned_reads": 956.0,
+                "not_pseudoaligned_reads": 45552.0,
+                "percent_aligned": 2.0555603337060293,
+                "fragment_length": 0.0
+            },
+            "LA141_S52_L001_R1_001_trim": {
+                "total_reads": 120018.0,
+                "pseudoaligned_reads": 2909.0,
+                "not_pseudoaligned_reads": 117109.0,
+                "percent_aligned": 2.4238030962022363,
+                "fragment_length": 0.0
+            },
+            "242_S21_L001_R1_001_trim": {
+                "total_reads": 169081.0,
+                "pseudoaligned_reads": 73521.0,
+                "not_pseudoaligned_reads": 95560.0,
+                "percent_aligned": 43.48270947060876,
+                "fragment_length": 172.0
+            },
+            "176_S80_L001_R1_001_trim": {
+                "total_reads": 103185.0,
+                "pseudoaligned_reads": 42862.0,
+                "not_pseudoaligned_reads": 60323.0,
+                "percent_aligned": 41.53898337936715,
+                "fragment_length": 172.0
+            },
+            "LA162_S6_L001_R1_001_trim": {
+                "total_reads": 85839.0,
+                "pseudoaligned_reads": 73316.0,
+                "not_pseudoaligned_reads": 12523.0,
+                "percent_aligned": 85.41106024068313,
+                "fragment_length": 0.0
+            },
+            "LA180_S91_L001_R1_001_trim": {
+                "total_reads": 79636.0,
+                "pseudoaligned_reads": 46035.0,
+                "not_pseudoaligned_reads": 33601.0,
+                "percent_aligned": 57.80677080717263,
+                "fragment_length": 0.0
+            },
+            "LA132_S16_L001_R1_001_trim": {
+                "total_reads": 50567.0,
+                "pseudoaligned_reads": 9117.0,
+                "not_pseudoaligned_reads": 41450.0,
+                "percent_aligned": 18.029544960151878,
+                "fragment_length": 421.04
+            },
+            "LA82_S63_L001_R1_001_trim": {
+                "total_reads": 159052.0,
+                "pseudoaligned_reads": 3788.0,
+                "not_pseudoaligned_reads": 155264.0,
+                "percent_aligned": 2.381611045444257,
+                "fragment_length": 0.0
+            },
+            "LA7_S47_L001_R1_001_trim": {
+                "total_reads": 103193.0,
+                "pseudoaligned_reads": 7653.0,
+                "not_pseudoaligned_reads": 95540.0,
+                "percent_aligned": 7.416200711288557,
+                "fragment_length": 0.0
+            },
+            "LA167_S66_L001_R1_001_trim": {
+                "total_reads": 91642.0,
+                "pseudoaligned_reads": 83717.0,
+                "not_pseudoaligned_reads": 7925.0,
+                "percent_aligned": 91.35221841513716,
+                "fragment_length": 0.0
+            },
+            "ORDL8_S24_L001_R1_001_trim": {
+                "total_reads": 178681.0,
+                "pseudoaligned_reads": 157998.0,
+                "not_pseudoaligned_reads": 20683.0,
+                "percent_aligned": 88.42462265154101,
+                "fragment_length": 0.0
+            },
+            "LA6_S36_L001_R1_001_trim": {
+                "total_reads": 75638.0,
+                "pseudoaligned_reads": 5707.0,
+                "not_pseudoaligned_reads": 69931.0,
+                "percent_aligned": 7.545149263597663,
+                "fragment_length": 0.0
+            },
+            "239_S74_L001_R1_001_trim": {
+                "total_reads": 108679.0,
+                "pseudoaligned_reads": 6110.0,
+                "not_pseudoaligned_reads": 102569.0,
+                "percent_aligned": 5.6220612997911275,
+                "fragment_length": 0.0
+            },
+            "LA168_S78_L001_R1_001_trim": {
+                "total_reads": 91575.0,
+                "pseudoaligned_reads": 66084.0,
+                "not_pseudoaligned_reads": 25491.0,
+                "percent_aligned": 72.16380016380016,
+                "fragment_length": 0.0
+            },
+            "287_S87_L001_R1_001_trim": {
+                "total_reads": 141070.0,
+                "pseudoaligned_reads": 32178.0,
+                "not_pseudoaligned_reads": 108892.0,
+                "percent_aligned": 22.80995250584816,
+                "fragment_length": 0.0
+            },
+            "LA137_S28_L001_R1_001_trim": {
+                "total_reads": 84892.0,
+                "pseudoaligned_reads": 68968.0,
+                "not_pseudoaligned_reads": 15924.0,
+                "percent_aligned": 81.24204872072751,
+                "fragment_length": 0.0
+            },
+            "LA103_S61_L001_R1_001_trim": {
+                "total_reads": 76274.0,
+                "pseudoaligned_reads": 60426.0,
+                "not_pseudoaligned_reads": 15848.0,
+                "percent_aligned": 79.2222775782049,
+                "fragment_length": 0.0
+            },
+            "LA125_S39_L001_R1_001_trim": {
+                "total_reads": 92254.0,
+                "pseudoaligned_reads": 55010.0,
+                "not_pseudoaligned_reads": 37244.0,
+                "percent_aligned": 59.62885078153792,
+                "fragment_length": 0.0
+            },
+            "LA146_S5_L001_R1_001_trim": {
+                "total_reads": 78653.0,
+                "pseudoaligned_reads": 1349.0,
+                "not_pseudoaligned_reads": 77304.0,
+                "percent_aligned": 1.7151284757097631,
+                "fragment_length": 0.0
+            },
+            "LA22_S15_L001_R1_001_trim": {
+                "total_reads": 212507.0,
+                "pseudoaligned_reads": 14165.0,
+                "not_pseudoaligned_reads": 198342.0,
+                "percent_aligned": 6.665662778167307,
+                "fragment_length": 0.0
+            },
+            "SDCL10_S48_L001_R1_001_trim": {
+                "total_reads": 360278.0,
+                "pseudoaligned_reads": 312000.0,
+                "not_pseudoaligned_reads": 48278.0,
+                "percent_aligned": 86.59979238254904,
+                "fragment_length": 0.0
+            },
+            "LA138_S40_L001_R1_001_trim": {
+                "total_reads": 93039.0,
+                "pseudoaligned_reads": 1720.0,
+                "not_pseudoaligned_reads": 91319.0,
+                "percent_aligned": 1.8486871097066822,
+                "fragment_length": 0.0
+            },
+            "LA102_S49_L001_R1_001_trim": {
+                "total_reads": 92485.0,
+                "pseudoaligned_reads": 80390.0,
+                "not_pseudoaligned_reads": 12095.0,
+                "percent_aligned": 86.92220360058388,
+                "fragment_length": 0.0
+            },
+            "265_S52_L001_R1_001_trim": {
+                "total_reads": 81387.0,
+                "pseudoaligned_reads": 61162.0,
+                "not_pseudoaligned_reads": 20225.0,
+                "percent_aligned": 75.14959391549019,
+                "fragment_length": 0.0
+            },
+            "LA31_S5_L001_R1_001_trim": {
+                "total_reads": 129507.0,
+                "pseudoaligned_reads": 118687.0,
+                "not_pseudoaligned_reads": 10820.0,
+                "percent_aligned": 91.64523925347665,
+                "fragment_length": 0.0
+            },
+            "274_S17_L001_R1_001_trim": {
+                "total_reads": 100603.0,
+                "pseudoaligned_reads": 17405.0,
+                "not_pseudoaligned_reads": 83198.0,
+                "percent_aligned": 17.300676918183356,
+                "fragment_length": 0.0
+            },
+            "AKAL9_S37_L001_R1_001_trim": {
+                "total_reads": 556110.0,
+                "pseudoaligned_reads": 96993.0,
+                "not_pseudoaligned_reads": 459117.0,
+                "percent_aligned": 17.441333549117978,
+                "fragment_length": 461.0
+            },
+            "LA182_S8_L001_R1_001_trim": {
+                "total_reads": 74669.0,
+                "pseudoaligned_reads": 67868.0,
+                "not_pseudoaligned_reads": 6801.0,
+                "percent_aligned": 90.8918024883151,
+                "fragment_length": 0.0
+            },
+            "267_S64_L001_R1_001_trim": {
+                "total_reads": 136200.0,
+                "pseudoaligned_reads": 3267.0,
+                "not_pseudoaligned_reads": 132933.0,
+                "percent_aligned": 2.398678414096916,
+                "fragment_length": 0.0
+            },
+            "247_S86_L001_R1_001_trim": {
+                "total_reads": 53423.0,
+                "pseudoaligned_reads": 35860.0,
+                "not_pseudoaligned_reads": 17563.0,
+                "percent_aligned": 67.12464668775621,
+                "fragment_length": 0.0
+            },
+            "LA67_S52_L001_R1_001_trim": {
+                "total_reads": 151659.0,
+                "pseudoaligned_reads": 3764.0,
+                "not_pseudoaligned_reads": 147895.0,
+                "percent_aligned": 2.481883699615585,
+                "fragment_length": 0.0
+            },
+            "LA126_S51_L001_R1_001_trim": {
+                "total_reads": 61677.0,
+                "pseudoaligned_reads": 25606.0,
+                "not_pseudoaligned_reads": 36071.0,
+                "percent_aligned": 41.516286460106684,
+                "fragment_length": 0.0
+            },
+            "CB24_S23_L001_R1_001_trim": {
+                "total_reads": 243772.0,
+                "pseudoaligned_reads": 218453.0,
+                "not_pseudoaligned_reads": 25319.0,
+                "percent_aligned": 89.61365538289877,
+                "fragment_length": 0.0
+            },
+            "LA143_S76_L001_R1_001_trim": {
+                "total_reads": 79190.0,
+                "pseudoaligned_reads": 1594.0,
+                "not_pseudoaligned_reads": 77596.0,
+                "percent_aligned": 2.0128804141937113,
+                "fragment_length": 0.0
+            },
+            "58_S19_L001_R1_001_trim": {
+                "total_reads": 95248.0,
+                "pseudoaligned_reads": 66589.0,
+                "not_pseudoaligned_reads": 28659.0,
+                "percent_aligned": 69.9111792373593,
+                "fragment_length": 303.0
+            },
+            "LA148_S29_L001_R1_001_trim": {
+                "total_reads": 76740.0,
+                "pseudoaligned_reads": 1855.0,
+                "not_pseudoaligned_reads": 74885.0,
+                "percent_aligned": 2.417253062288246,
+                "fragment_length": 0.0
+            },
+            "LA48_S60_L001_R1_001_trim": {
+                "total_reads": 108668.0,
+                "pseudoaligned_reads": 35845.0,
+                "not_pseudoaligned_reads": 72823.0,
+                "percent_aligned": 32.98579158537932,
+                "fragment_length": 0.0
+            },
+            "LA142_S64_L001_R1_001_trim": {
+                "total_reads": 70026.0,
+                "pseudoaligned_reads": 1341.0,
+                "not_pseudoaligned_reads": 68685.0,
+                "percent_aligned": 1.915002998886128,
+                "fragment_length": 0.0
+            },
+            "LA45_S28_L001_R1_001_trim": {
+                "total_reads": 145230.0,
+                "pseudoaligned_reads": 132848.0,
+                "not_pseudoaligned_reads": 12382.0,
+                "percent_aligned": 91.47421331680782,
+                "fragment_length": 0.0
+            },
+            "LA123_S15_L001_R1_001_trim": {
+                "total_reads": 63867.0,
+                "pseudoaligned_reads": 40029.0,
+                "not_pseudoaligned_reads": 23838.0,
+                "percent_aligned": 62.67556014843346,
+                "fragment_length": 0.0
+            },
+            "LA87_S32_L001_R1_001_trim": {
+                "total_reads": 45740.0,
+                "pseudoaligned_reads": 4396.0,
+                "not_pseudoaligned_reads": 41344.0,
+                "percent_aligned": 9.610843900306078,
+                "fragment_length": 0.0
+            },
+            "LA38_S59_L001_R1_001_trim": {
+                "total_reads": 195344.0,
+                "pseudoaligned_reads": 2699.0,
+                "not_pseudoaligned_reads": 192645.0,
+                "percent_aligned": 1.381665165042182,
+                "fragment_length": 0.0
+            },
+            "LA161_S89_L001_R1_001_trim": {
+                "total_reads": 78255.0,
+                "pseudoaligned_reads": 32248.0,
+                "not_pseudoaligned_reads": 46007.0,
+                "percent_aligned": 41.208868442911,
+                "fragment_length": 0.0
+            },
+            "LA172_S31_L001_R1_001_trim": {
+                "total_reads": 52556.0,
+                "pseudoaligned_reads": 3826.0,
+                "not_pseudoaligned_reads": 48730.0,
+                "percent_aligned": 7.279853870157546,
+                "fragment_length": 0.0
+            },
+            "LA66_S41_L001_R1_001_trim": {
+                "total_reads": 101622.0,
+                "pseudoaligned_reads": 12532.0,
+                "not_pseudoaligned_reads": 89090.0,
+                "percent_aligned": 12.331975359666213,
+                "fragment_length": 0.0
+            },
+            "LA153_S77_L001_R1_001_trim": {
+                "total_reads": 62898.0,
+                "pseudoaligned_reads": 48371.0,
+                "not_pseudoaligned_reads": 14527.0,
+                "percent_aligned": 76.90387611688766,
+                "fragment_length": 0.0
+            },
+            "244_S45_L001_R1_001_trim": {
+                "total_reads": 109762.0,
+                "pseudoaligned_reads": 77424.0,
+                "not_pseudoaligned_reads": 32338.0,
+                "percent_aligned": 70.53807328583663,
+                "fragment_length": 172.0
+            },
+            "155_S44_L001_R1_001_trim": {
+                "total_reads": 217238.0,
+                "pseudoaligned_reads": 42825.0,
+                "not_pseudoaligned_reads": 174413.0,
+                "percent_aligned": 19.713401891013543,
+                "fragment_length": 172.0
+            },
+            "LA122_S3_L001_R1_001_trim": {
+                "total_reads": 85603.0,
+                "pseudoaligned_reads": 41685.0,
+                "not_pseudoaligned_reads": 43918.0,
+                "percent_aligned": 48.69572328072614,
+                "fragment_length": 0.0
+            },
+            "258_S81_L001_R1_001_trim": {
+                "total_reads": 196829.0,
+                "pseudoaligned_reads": 48120.0,
+                "not_pseudoaligned_reads": 148709.0,
+                "percent_aligned": 24.447616967011975,
+                "fragment_length": 172.0
+            },
+            "ORCL9_S32_L001_R1_001_trim": {
+                "total_reads": 192370.0,
+                "pseudoaligned_reads": 170739.0,
+                "not_pseudoaligned_reads": 21631.0,
+                "percent_aligned": 88.75552321047981,
+                "fragment_length": 0.0
+            },
+            "139_S91_L001_R1_001_trim": {
+                "total_reads": 227076.0,
+                "pseudoaligned_reads": 143673.0,
+                "not_pseudoaligned_reads": 83403.0,
+                "percent_aligned": 63.2708872800296,
+                "fragment_length": 171.8
+            },
+            "LA129_S87_L001_R1_001_trim": {
+                "total_reads": 88909.0,
+                "pseudoaligned_reads": 66085.0,
+                "not_pseudoaligned_reads": 22824.0,
+                "percent_aligned": 74.32880810716576,
+                "fragment_length": 0.0
+            },
+            "LA145_S88_L001_R1_001_trim": {
+                "total_reads": 112033.0,
+                "pseudoaligned_reads": 86659.0,
+                "not_pseudoaligned_reads": 25374.0,
+                "percent_aligned": 77.35131613006881,
+                "fragment_length": 0.0
+            },
+            "LA96_S44_L001_R1_001_trim": {
+                "total_reads": 71287.0,
+                "pseudoaligned_reads": 7496.0,
+                "not_pseudoaligned_reads": 63791.0,
+                "percent_aligned": 10.515241208074404,
+                "fragment_length": 0.0
+            },
+            "LA188_S80_L001_R1_001_trim": {
+                "total_reads": 46513.0,
+                "pseudoaligned_reads": 761.0,
+                "not_pseudoaligned_reads": 45752.0,
+                "percent_aligned": 1.6361017349988176,
+                "fragment_length": 0.0
+            },
+            "LA104_S73_L001_R1_001_trim": {
+                "total_reads": 57959.0,
+                "pseudoaligned_reads": 42512.0,
+                "not_pseudoaligned_reads": 15447.0,
+                "percent_aligned": 73.3484014562018,
+                "fragment_length": 0.0
+            },
+            "228_S9_L001_R1_001_trim": {
+                "total_reads": 96680.0,
+                "pseudoaligned_reads": 13323.0,
+                "not_pseudoaligned_reads": 83357.0,
+                "percent_aligned": 13.780513032685146,
+                "fragment_length": 0.0
+            },
+            "ORCL8_S16_L001_R1_001_trim": {
+                "total_reads": 70861.0,
+                "pseudoaligned_reads": 62633.0,
+                "not_pseudoaligned_reads": 8228.0,
+                "percent_aligned": 88.38853530150577,
+                "fragment_length": 0.0
+            },
+            "54_S7_L001_R1_001_trim": {
+                "total_reads": 99914.0,
+                "pseudoaligned_reads": 65706.0,
+                "not_pseudoaligned_reads": 34208.0,
+                "percent_aligned": 65.76255579798627,
+                "fragment_length": 0.0
+            },
+            "LA124_S27_L001_R1_001_trim": {
+                "total_reads": 104932.0,
+                "pseudoaligned_reads": 27130.0,
+                "not_pseudoaligned_reads": 77802.0,
+                "percent_aligned": 25.854839324514924,
+                "fragment_length": 0.0
+            },
+            "LA184_S32_L001_R1_001_trim": {
+                "total_reads": 54064.0,
+                "pseudoaligned_reads": 44415.0,
+                "not_pseudoaligned_reads": 9649.0,
+                "percent_aligned": 82.15263391535957,
+                "fragment_length": 0.0
+            },
+            "LA116_S62_L001_R1_001_trim": {
+                "total_reads": 132936.0,
+                "pseudoaligned_reads": 2942.0,
+                "not_pseudoaligned_reads": 129994.0,
+                "percent_aligned": 2.2130950231690436,
+                "fragment_length": 0.0
+            },
+            "LA164_S30_L001_R1_001_trim": {
+                "total_reads": 129491.0,
+                "pseudoaligned_reads": 3792.0,
+                "not_pseudoaligned_reads": 125699.0,
+                "percent_aligned": 2.9283888455568343,
+                "fragment_length": 0.0
+            },
+            "LA100_S25_L001_R1_001_trim": {
+                "total_reads": 96888.0,
+                "pseudoaligned_reads": 10148.0,
+                "not_pseudoaligned_reads": 86740.0,
+                "percent_aligned": 10.473949302287176,
+                "fragment_length": 0.0
+            },
+            "LA94_S22_L001_R1_001_trim": {
+                "total_reads": 82259.0,
+                "pseudoaligned_reads": 75423.0,
+                "not_pseudoaligned_reads": 6836.0,
+                "percent_aligned": 91.68966313716432,
+                "fragment_length": 0.0
+            },
+            "LA91_S74_L001_R1_001_trim": {
+                "total_reads": 56087.0,
+                "pseudoaligned_reads": 45219.0,
+                "not_pseudoaligned_reads": 10868.0,
+                "percent_aligned": 80.62296075739475,
+                "fragment_length": 0.0
+            },
+            "LA101_S37_L001_R1_001_trim": {
+                "total_reads": 71176.0,
+                "pseudoaligned_reads": 47629.0,
+                "not_pseudoaligned_reads": 23547.0,
+                "percent_aligned": 66.91721928740024,
+                "fragment_length": 0.0
+            },
+            "LA179_S79_L001_R1_001_trim": {
+                "total_reads": 49378.0,
+                "pseudoaligned_reads": 37230.0,
+                "not_pseudoaligned_reads": 12148.0,
+                "percent_aligned": 75.39795050427315,
+                "fragment_length": 0.0
+            },
+            "LA185_S44_L001_R1_001_trim": {
+                "total_reads": 46575.0,
+                "pseudoaligned_reads": 39539.0,
+                "not_pseudoaligned_reads": 7036.0,
+                "percent_aligned": 84.89318303811058,
+                "fragment_length": 0.0
+            },
+            "WAFL8_S8_L001_R1_001_trim": {
+                "total_reads": 163981.0,
+                "pseudoaligned_reads": 26576.0,
+                "not_pseudoaligned_reads": 137405.0,
+                "percent_aligned": 16.20675566071679,
+                "fragment_length": 0.0
+            },
+            "LA150_S53_L001_R1_001_trim": {
+                "total_reads": 116.0,
+                "pseudoaligned_reads": 2.0,
+                "not_pseudoaligned_reads": 114.0,
+                "percent_aligned": 1.7241379310344827,
+                "fragment_length": 0.0
+            },
+            "LA108_S14_L001_R1_001_trim": {
+                "total_reads": 119235.0,
+                "pseudoaligned_reads": 59997.0,
+                "not_pseudoaligned_reads": 59238.0,
+                "percent_aligned": 50.318279028808654,
+                "fragment_length": 0.0
+            },
+            "LA166_S54_L001_R1_001_trim": {
+                "total_reads": 66683.0,
+                "pseudoaligned_reads": 62624.0,
+                "not_pseudoaligned_reads": 4059.0,
+                "percent_aligned": 93.91299131712731,
+                "fragment_length": 0.0
+            },
+            "BCQL3_S45_L001_R1_001_trim": {
+                "total_reads": 290432.0,
+                "pseudoaligned_reads": 34480.0,
+                "not_pseudoaligned_reads": 255952.0,
+                "percent_aligned": 11.871970030850596,
+                "fragment_length": 0.0
+            },
+            "LA105_S85_L001_R1_001_trim": {
+                "total_reads": 52695.0,
+                "pseudoaligned_reads": 37071.0,
+                "not_pseudoaligned_reads": 15624.0,
+                "percent_aligned": 70.35012809564475,
+                "fragment_length": 0.0
+            },
+            "LA64_S19_L001_R1_001_trim": {
+                "total_reads": 189792.0,
+                "pseudoaligned_reads": 84627.0,
+                "not_pseudoaligned_reads": 105165.0,
+                "percent_aligned": 44.58933990895296,
+                "fragment_length": 0.0
+            },
+            "LA39_S69_L001_R1_001_trim": {
+                "total_reads": 157254.0,
+                "pseudoaligned_reads": 8864.0,
+                "not_pseudoaligned_reads": 148390.0,
+                "percent_aligned": 5.6367405598585725,
+                "fragment_length": 0.0
+            },
+            "SDBL5_S40_L001_R1_001_trim": {
+                "total_reads": 219876.0,
+                "pseudoaligned_reads": 193788.0,
+                "not_pseudoaligned_reads": 26088.0,
+                "percent_aligned": 88.13513071003656,
+                "fragment_length": 0.0
+            },
+            "AKDL5_S15_L001_R1_001_trim": {
+                "total_reads": 157975.0,
+                "pseudoaligned_reads": 134279.0,
+                "not_pseudoaligned_reads": 23696.0,
+                "percent_aligned": 85.00015825288811,
+                "fragment_length": 447.0
+            },
+            "LA80_S42_L001_R1_001_trim": {
+                "total_reads": 97539.0,
+                "pseudoaligned_reads": 77624.0,
+                "not_pseudoaligned_reads": 19915.0,
+                "percent_aligned": 79.58252596397338,
+                "fragment_length": 0.0
+            },
+            "LA183_S20_L001_R1_001_trim": {
+                "total_reads": 74316.0,
+                "pseudoaligned_reads": 64520.0,
+                "not_pseudoaligned_reads": 9796.0,
+                "percent_aligned": 86.81845093923248,
+                "fragment_length": 0.0
+            },
+            "286_S75_L001_R1_001_trim": {
+                "total_reads": 125803.0,
+                "pseudoaligned_reads": 2568.0,
+                "not_pseudoaligned_reads": 123235.0,
+                "percent_aligned": 2.0412867737653313,
+                "fragment_length": 0.0
+            },
+            "LA173_S43_L001_R1_001_trim": {
+                "total_reads": 70933.0,
+                "pseudoaligned_reads": 2115.0,
+                "not_pseudoaligned_reads": 68818.0,
+                "percent_aligned": 2.981686944017594,
+                "fragment_length": 0.0
+            },
+            "LA118_S74_L001_R1_001_trim": {
+                "total_reads": 14589.0,
+                "pseudoaligned_reads": 342.0,
+                "not_pseudoaligned_reads": 14247.0,
+                "percent_aligned": 2.344231955582974,
+                "fragment_length": 0.0
+            },
+            "210_S85_L001_R1_001_trim": {
+                "total_reads": 47258.0,
+                "pseudoaligned_reads": 35709.0,
+                "not_pseudoaligned_reads": 11549.0,
+                "percent_aligned": 75.56180964069576,
+                "fragment_length": 0.0
+            },
+            "AKFL10_S7_L001_R1_001_trim": {
+                "total_reads": 297379.0,
+                "pseudoaligned_reads": 263479.0,
+                "not_pseudoaligned_reads": 33900.0,
+                "percent_aligned": 88.60040554309484,
+                "fragment_length": 0.0
+            },
+            "LA41_S6_L001_R1_001_trim": {
+                "total_reads": 115415.0,
+                "pseudoaligned_reads": 5774.0,
+                "not_pseudoaligned_reads": 109641.0,
+                "percent_aligned": 5.002815925139713,
+                "fragment_length": 0.0
+            },
+            "LA34_S16_L001_R1_001_trim": {
+                "total_reads": 126444.0,
+                "pseudoaligned_reads": 105531.0,
+                "not_pseudoaligned_reads": 20913.0,
+                "percent_aligned": 83.46066242763595,
+                "fragment_length": 0.0
+            },
+            "LA40_S79_L001_R1_001_trim": {
+                "total_reads": 100131.0,
+                "pseudoaligned_reads": 2621.0,
+                "not_pseudoaligned_reads": 97510.0,
+                "percent_aligned": 2.617570982013562,
+                "fragment_length": 0.0
+            },
+            "LA63_S8_L001_R1_001_trim": {
+                "total_reads": 173574.0,
+                "pseudoaligned_reads": 7850.0,
+                "not_pseudoaligned_reads": 165724.0,
+                "percent_aligned": 4.522566743867169,
+                "fragment_length": 0.0
+            },
+            "195_S1_L001_R1_001_trim": {
+                "total_reads": 48951.0,
+                "pseudoaligned_reads": 5835.0,
+                "not_pseudoaligned_reads": 43116.0,
+                "percent_aligned": 11.920083348654776,
+                "fragment_length": 0.0
+            },
+            "212_S6_L001_R1_001_trim": {
+                "total_reads": 101963.0,
+                "pseudoaligned_reads": 84916.0,
+                "not_pseudoaligned_reads": 17047.0,
+                "percent_aligned": 83.28119023567373,
+                "fragment_length": 0.0
+            },
+            "LA170_S7_L001_R1_001_trim": {
+                "total_reads": 115160.0,
+                "pseudoaligned_reads": 1641.0,
+                "not_pseudoaligned_reads": 113519.0,
+                "percent_aligned": 1.4249739492879472,
+                "fragment_length": 0.0
+            },
+            "221_S26_L001_R1_001_trim": {
+                "total_reads": 71502.0,
+                "pseudoaligned_reads": 58455.0,
+                "not_pseudoaligned_reads": 13047.0,
+                "percent_aligned": 81.75295795921792,
+                "fragment_length": 0.0
+            },
+            "WAAL6_S63_L001_R1_001_trim": {
+                "total_reads": 356259.0,
+                "pseudoaligned_reads": 301035.0,
+                "not_pseudoaligned_reads": 55224.0,
+                "percent_aligned": 84.49891792207355,
+                "fragment_length": 0.0
+            },
+            "LA110_S26_L001_R1_001_trim": {
+                "total_reads": 83914.0,
+                "pseudoaligned_reads": 67600.0,
+                "not_pseudoaligned_reads": 16314.0,
+                "percent_aligned": 80.5586672069023,
+                "fragment_length": 0.0
+            },
+            "LA130_S4_L001_R1_001_trim": {
+                "total_reads": 11418.0,
+                "pseudoaligned_reads": 308.0,
+                "not_pseudoaligned_reads": 11110.0,
+                "percent_aligned": 2.697495183044316,
+                "fragment_length": 0.0
+            },
+            "259_S51_L001_R1_001_trim": {
+                "total_reads": 111902.0,
+                "pseudoaligned_reads": 95472.0,
+                "not_pseudoaligned_reads": 16430.0,
+                "percent_aligned": 85.31750996407571,
+                "fragment_length": 0.0
+            },
+            "LA163_S18_L001_R1_001_trim": {
+                "total_reads": 86721.0,
+                "pseudoaligned_reads": 70576.0,
+                "not_pseudoaligned_reads": 16145.0,
+                "percent_aligned": 81.38282538254863,
+                "fragment_length": 0.0
+            },
+            "216_S42_L001_R1_001_trim": {
+                "total_reads": 134974.0,
+                "pseudoaligned_reads": 95791.0,
+                "not_pseudoaligned_reads": 39183.0,
+                "percent_aligned": 70.96996458577208,
+                "fragment_length": 0.0
+            },
+            "LA128_S75_L001_R1_001_trim": {
+                "total_reads": 43190.0,
+                "pseudoaligned_reads": 1950.0,
+                "not_pseudoaligned_reads": 41240.0,
+                "percent_aligned": 4.514934012502894,
+                "fragment_length": 0.0
+            },
+            "LA121_S86_L001_R1_001_trim": {
+                "total_reads": 52581.0,
+                "pseudoaligned_reads": 27922.0,
+                "not_pseudoaligned_reads": 24659.0,
+                "percent_aligned": 53.10283182138035,
+                "fragment_length": 0.0
+            },
+            "SDAL17_S53_L001_R1_001_trim": {
+                "total_reads": 504520.0,
+                "pseudoaligned_reads": 48815.0,
+                "not_pseudoaligned_reads": 455705.0,
+                "percent_aligned": 9.675533180052327,
+                "fragment_length": 0.0
+            },
+            "LA98_S13_L001_R1_001_trim": {
+                "total_reads": 62621.0,
+                "pseudoaligned_reads": 26487.0,
+                "not_pseudoaligned_reads": 36134.0,
+                "percent_aligned": 42.29731240318743,
+                "fragment_length": 0.0
+            },
+            "LA186_S56_L001_R1_001_trim": {
+                "total_reads": 55619.0,
+                "pseudoaligned_reads": 25471.0,
+                "not_pseudoaligned_reads": 30148.0,
+                "percent_aligned": 45.79550153724446,
+                "fragment_length": 0.0
+            },
+            "LA62_S81_L001_R1_001_trim": {
+                "total_reads": 232524.0,
+                "pseudoaligned_reads": 6790.0,
+                "not_pseudoaligned_reads": 225734.0,
+                "percent_aligned": 2.9201286748894737,
+                "fragment_length": 0.0
+            },
+            "LA147_S17_L001_R1_001_trim": {
+                "total_reads": 121498.0,
+                "pseudoaligned_reads": 4687.0,
+                "not_pseudoaligned_reads": 116811.0,
+                "percent_aligned": 3.8576766695748077,
+                "fragment_length": 223.0
+            },
+            "CB26_S39_L001_R1_001_trim": {
+                "total_reads": 216558.0,
+                "pseudoaligned_reads": 190080.0,
+                "not_pseudoaligned_reads": 26478.0,
+                "percent_aligned": 87.77325243121935,
+                "fragment_length": 0.0
+            },
+            "LA30_S78_L001_R1_001_trim": {
+                "total_reads": 102048.0,
+                "pseudoaligned_reads": 18981.0,
+                "not_pseudoaligned_reads": 83067.0,
+                "percent_aligned": 18.60007055503293,
+                "fragment_length": 0.0
+            },
+            "276_S41_L001_R1_001_trim": {
+                "total_reads": 69759.0,
+                "pseudoaligned_reads": 30095.0,
+                "not_pseudoaligned_reads": 39664.0,
+                "percent_aligned": 43.141386774466376,
+                "fragment_length": 0.0
+            },
+            "CB39_S56_L001_R1_001_trim": {
+                "total_reads": 611915.0,
+                "pseudoaligned_reads": 543535.0,
+                "not_pseudoaligned_reads": 68380.0,
+                "percent_aligned": 88.82524533636207,
+                "fragment_length": 0.0
+            },
+            "LA177_S67_L001_R1_001_trim": {
+                "total_reads": 86728.0,
+                "pseudoaligned_reads": 40047.0,
+                "not_pseudoaligned_reads": 46681.0,
+                "percent_aligned": 46.17539894843649,
+                "fragment_length": 0.0
+            },
+            "LA151_S65_L001_R1_001_trim": {
+                "total_reads": 65694.0,
+                "pseudoaligned_reads": 1129.0,
+                "not_pseudoaligned_reads": 64565.0,
+                "percent_aligned": 1.718573994580936,
+                "fragment_length": 0.0
+            },
+            "269_S88_L001_R1_001_trim": {
+                "total_reads": 240866.0,
+                "pseudoaligned_reads": 3849.0,
+                "not_pseudoaligned_reads": 237017.0,
+                "percent_aligned": 1.597983941278553,
+                "fragment_length": 0.0
+            },
+            "278_S93_L001_R1_001_trim": {
+                "total_reads": 99355.0,
+                "pseudoaligned_reads": 84335.0,
+                "not_pseudoaligned_reads": 15020.0,
+                "percent_aligned": 84.8824920738765,
+                "fragment_length": 0.0
+            },
+            "LA114_S38_L001_R1_001_trim": {
+                "total_reads": 152206.0,
+                "pseudoaligned_reads": 3537.0,
+                "not_pseudoaligned_reads": 148669.0,
+                "percent_aligned": 2.323824290763833,
+                "fragment_length": 0.0
+            },
+            "WABL8_S55_L001_R1_001_trim": {
+                "total_reads": 357082.0,
+                "pseudoaligned_reads": 320176.0,
+                "not_pseudoaligned_reads": 36906.0,
+                "percent_aligned": 89.66455884082649,
+                "fragment_length": 0.0
+            },
+            "LA106_S2_L001_R1_001_trim": {
+                "total_reads": 178768.0,
+                "pseudoaligned_reads": 42608.0,
+                "not_pseudoaligned_reads": 136160.0,
+                "percent_aligned": 23.83424326501387,
+                "fragment_length": 0.0
+            },
+            "LA165_S42_L001_R1_001_trim": {
+                "total_reads": 75210.0,
+                "pseudoaligned_reads": 60716.0,
+                "not_pseudoaligned_reads": 14494.0,
+                "percent_aligned": 80.72862651243186,
+                "fragment_length": 0.0
+            },
+            "LA175_S55_L001_R1_001_trim": {
+                "total_reads": 41328.0,
+                "pseudoaligned_reads": 1711.0,
+                "not_pseudoaligned_reads": 39617.0,
+                "percent_aligned": 4.14005032907472,
+                "fragment_length": 0.0
+            },
+            "LA127_S63_L001_R1_001_trim": {
+                "total_reads": 93877.0,
+                "pseudoaligned_reads": 5738.0,
+                "not_pseudoaligned_reads": 88139.0,
+                "percent_aligned": 6.112253267573528,
+                "fragment_length": 0.0
+            },
+            "BCAL4_S47_L001_R1_001_trim": {
+                "total_reads": 419146.0,
+                "pseudoaligned_reads": 133431.0,
+                "not_pseudoaligned_reads": 285715.0,
+                "percent_aligned": 31.83401487787072,
+                "fragment_length": 0.0
+            },
+            "LA89_S54_L001_R1_001_trim": {
+                "total_reads": 203883.0,
+                "pseudoaligned_reads": 24509.0,
+                "not_pseudoaligned_reads": 179374.0,
+                "percent_aligned": 12.021110146505594,
+                "fragment_length": 0.0
+            },
+            "LA95_S33_L001_R1_001_trim": {
+                "total_reads": 52144.0,
+                "pseudoaligned_reads": 3493.0,
+                "not_pseudoaligned_reads": 48651.0,
+                "percent_aligned": 6.698757287511508,
+                "fragment_length": 0.0
+            },
+            "LA169_S90_L001_R1_001_trim": {
+                "total_reads": 95330.0,
+                "pseudoaligned_reads": 49284.0,
+                "not_pseudoaligned_reads": 46046.0,
+                "percent_aligned": 51.69831112975978,
+                "fragment_length": 421.0
+            },
+            "BBDL4_S61_L001_R1_001_trim": {
+                "total_reads": 190916.0,
+                "pseudoaligned_reads": 19821.0,
+                "not_pseudoaligned_reads": 171095.0,
+                "percent_aligned": 10.382052839992458,
+                "fragment_length": 0.0
+            },
+            "LA97_S1_L001_R1_001_trim": {
+                "total_reads": 47156.0,
+                "pseudoaligned_reads": 34304.0,
+                "not_pseudoaligned_reads": 12852.0,
+                "percent_aligned": 72.74577996437357,
+                "fragment_length": 0.0
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "fragment_length": {
+                "title": "Frag Length",
+                "description": "Estimated average fragment length",
+                "min": 0,
+                "suffix": "bp",
+                "scale": "RdYlGn",
+                "namespace": "Kallisto",
+                "rid": "mqc-generalstats-kallisto-fragment_length",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "max": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 461.0,
+                "dmin": 0.0
+            },
+            "percent_aligned": {
+                "title": "% Aligned",
+                "description": "% processed reads that were pseudoaligned",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "YlGn",
+                "namespace": "Kallisto",
+                "rid": "mqc-generalstats-kallisto-percent_aligned",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            },
+            "pseudoaligned_reads": {
+                "title": "M Aligned",
+                "description": "Pseudoaligned reads (millions)",
+                "min": 0,
+                "scale": "PuRd",
+                "modify": 1e-06,
+                "shared_key": "read_count",
+                "namespace": "Kallisto",
+                "rid": "mqc-generalstats-kallisto-pseudoaligned_reads",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "max": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "placement": 1000.0,
+                "dmax": 0.543535,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/opt/anaconda/anaconda3/bin/multiqc ../output/04-kallisto/ -o ../output/04-kallisto/",
+    "report_plot_data": {},
+    "report_saved_raw_data": {
+        "multiqc_kallisto": {
+            "LA171_S19_L001_R1_001_trim": {
+                "total_reads": 70768.0,
+                "pseudoaligned_reads": 1496.0,
+                "not_pseudoaligned_reads": 69272.0,
+                "percent_aligned": 2.113949807822745,
+                "fragment_length": 0.0
+            },
+            "LA149_S41_L001_R1_001_trim": {
+                "total_reads": 62182.0,
+                "pseudoaligned_reads": 1194.0,
+                "not_pseudoaligned_reads": 60988.0,
+                "percent_aligned": 1.9201698240648417,
+                "fragment_length": 0.0
+            },
+            "LA187_S68_L001_R1_001_trim": {
+                "total_reads": 29357.0,
+                "pseudoaligned_reads": 14546.0,
+                "not_pseudoaligned_reads": 14811.0,
+                "percent_aligned": 49.54865960418299,
+                "fragment_length": 0.0
+            },
+            "BBFL4_S64_L001_R1_001_trim": {
+                "total_reads": 696930.0,
+                "pseudoaligned_reads": 276198.0,
+                "not_pseudoaligned_reads": 420732.0,
+                "percent_aligned": 39.63066592053721,
+                "fragment_length": 0.0
+            },
+            "BCEL5_S31_L001_R1_001_trim": {
+                "total_reads": 336766.0,
+                "pseudoaligned_reads": 149494.0,
+                "not_pseudoaligned_reads": 187272.0,
+                "percent_aligned": 44.391060855312,
+                "fragment_length": 0.0
+            },
+            "LA115_S50_L001_R1_001_trim": {
+                "total_reads": 46508.0,
+                "pseudoaligned_reads": 956.0,
+                "not_pseudoaligned_reads": 45552.0,
+                "percent_aligned": 2.0555603337060293,
+                "fragment_length": 0.0
+            },
+            "LA141_S52_L001_R1_001_trim": {
+                "total_reads": 120018.0,
+                "pseudoaligned_reads": 2909.0,
+                "not_pseudoaligned_reads": 117109.0,
+                "percent_aligned": 2.4238030962022363,
+                "fragment_length": 0.0
+            },
+            "242_S21_L001_R1_001_trim": {
+                "total_reads": 169081.0,
+                "pseudoaligned_reads": 73521.0,
+                "not_pseudoaligned_reads": 95560.0,
+                "percent_aligned": 43.48270947060876,
+                "fragment_length": 172.0
+            },
+            "176_S80_L001_R1_001_trim": {
+                "total_reads": 103185.0,
+                "pseudoaligned_reads": 42862.0,
+                "not_pseudoaligned_reads": 60323.0,
+                "percent_aligned": 41.53898337936715,
+                "fragment_length": 172.0
+            },
+            "LA162_S6_L001_R1_001_trim": {
+                "total_reads": 85839.0,
+                "pseudoaligned_reads": 73316.0,
+                "not_pseudoaligned_reads": 12523.0,
+                "percent_aligned": 85.41106024068313,
+                "fragment_length": 0.0
+            },
+            "LA180_S91_L001_R1_001_trim": {
+                "total_reads": 79636.0,
+                "pseudoaligned_reads": 46035.0,
+                "not_pseudoaligned_reads": 33601.0,
+                "percent_aligned": 57.80677080717263,
+                "fragment_length": 0.0
+            },
+            "LA132_S16_L001_R1_001_trim": {
+                "total_reads": 50567.0,
+                "pseudoaligned_reads": 9117.0,
+                "not_pseudoaligned_reads": 41450.0,
+                "percent_aligned": 18.029544960151878,
+                "fragment_length": 421.04
+            },
+            "LA82_S63_L001_R1_001_trim": {
+                "total_reads": 159052.0,
+                "pseudoaligned_reads": 3788.0,
+                "not_pseudoaligned_reads": 155264.0,
+                "percent_aligned": 2.381611045444257,
+                "fragment_length": 0.0
+            },
+            "LA7_S47_L001_R1_001_trim": {
+                "total_reads": 103193.0,
+                "pseudoaligned_reads": 7653.0,
+                "not_pseudoaligned_reads": 95540.0,
+                "percent_aligned": 7.416200711288557,
+                "fragment_length": 0.0
+            },
+            "LA167_S66_L001_R1_001_trim": {
+                "total_reads": 91642.0,
+                "pseudoaligned_reads": 83717.0,
+                "not_pseudoaligned_reads": 7925.0,
+                "percent_aligned": 91.35221841513716,
+                "fragment_length": 0.0
+            },
+            "ORDL8_S24_L001_R1_001_trim": {
+                "total_reads": 178681.0,
+                "pseudoaligned_reads": 157998.0,
+                "not_pseudoaligned_reads": 20683.0,
+                "percent_aligned": 88.42462265154101,
+                "fragment_length": 0.0
+            },
+            "LA6_S36_L001_R1_001_trim": {
+                "total_reads": 75638.0,
+                "pseudoaligned_reads": 5707.0,
+                "not_pseudoaligned_reads": 69931.0,
+                "percent_aligned": 7.545149263597663,
+                "fragment_length": 0.0
+            },
+            "239_S74_L001_R1_001_trim": {
+                "total_reads": 108679.0,
+                "pseudoaligned_reads": 6110.0,
+                "not_pseudoaligned_reads": 102569.0,
+                "percent_aligned": 5.6220612997911275,
+                "fragment_length": 0.0
+            },
+            "LA168_S78_L001_R1_001_trim": {
+                "total_reads": 91575.0,
+                "pseudoaligned_reads": 66084.0,
+                "not_pseudoaligned_reads": 25491.0,
+                "percent_aligned": 72.16380016380016,
+                "fragment_length": 0.0
+            },
+            "287_S87_L001_R1_001_trim": {
+                "total_reads": 141070.0,
+                "pseudoaligned_reads": 32178.0,
+                "not_pseudoaligned_reads": 108892.0,
+                "percent_aligned": 22.80995250584816,
+                "fragment_length": 0.0
+            },
+            "LA137_S28_L001_R1_001_trim": {
+                "total_reads": 84892.0,
+                "pseudoaligned_reads": 68968.0,
+                "not_pseudoaligned_reads": 15924.0,
+                "percent_aligned": 81.24204872072751,
+                "fragment_length": 0.0
+            },
+            "LA103_S61_L001_R1_001_trim": {
+                "total_reads": 76274.0,
+                "pseudoaligned_reads": 60426.0,
+                "not_pseudoaligned_reads": 15848.0,
+                "percent_aligned": 79.2222775782049,
+                "fragment_length": 0.0
+            },
+            "LA125_S39_L001_R1_001_trim": {
+                "total_reads": 92254.0,
+                "pseudoaligned_reads": 55010.0,
+                "not_pseudoaligned_reads": 37244.0,
+                "percent_aligned": 59.62885078153792,
+                "fragment_length": 0.0
+            },
+            "LA146_S5_L001_R1_001_trim": {
+                "total_reads": 78653.0,
+                "pseudoaligned_reads": 1349.0,
+                "not_pseudoaligned_reads": 77304.0,
+                "percent_aligned": 1.7151284757097631,
+                "fragment_length": 0.0
+            },
+            "LA22_S15_L001_R1_001_trim": {
+                "total_reads": 212507.0,
+                "pseudoaligned_reads": 14165.0,
+                "not_pseudoaligned_reads": 198342.0,
+                "percent_aligned": 6.665662778167307,
+                "fragment_length": 0.0
+            },
+            "SDCL10_S48_L001_R1_001_trim": {
+                "total_reads": 360278.0,
+                "pseudoaligned_reads": 312000.0,
+                "not_pseudoaligned_reads": 48278.0,
+                "percent_aligned": 86.59979238254904,
+                "fragment_length": 0.0
+            },
+            "LA138_S40_L001_R1_001_trim": {
+                "total_reads": 93039.0,
+                "pseudoaligned_reads": 1720.0,
+                "not_pseudoaligned_reads": 91319.0,
+                "percent_aligned": 1.8486871097066822,
+                "fragment_length": 0.0
+            },
+            "LA102_S49_L001_R1_001_trim": {
+                "total_reads": 92485.0,
+                "pseudoaligned_reads": 80390.0,
+                "not_pseudoaligned_reads": 12095.0,
+                "percent_aligned": 86.92220360058388,
+                "fragment_length": 0.0
+            },
+            "265_S52_L001_R1_001_trim": {
+                "total_reads": 81387.0,
+                "pseudoaligned_reads": 61162.0,
+                "not_pseudoaligned_reads": 20225.0,
+                "percent_aligned": 75.14959391549019,
+                "fragment_length": 0.0
+            },
+            "LA31_S5_L001_R1_001_trim": {
+                "total_reads": 129507.0,
+                "pseudoaligned_reads": 118687.0,
+                "not_pseudoaligned_reads": 10820.0,
+                "percent_aligned": 91.64523925347665,
+                "fragment_length": 0.0
+            },
+            "274_S17_L001_R1_001_trim": {
+                "total_reads": 100603.0,
+                "pseudoaligned_reads": 17405.0,
+                "not_pseudoaligned_reads": 83198.0,
+                "percent_aligned": 17.300676918183356,
+                "fragment_length": 0.0
+            },
+            "AKAL9_S37_L001_R1_001_trim": {
+                "total_reads": 556110.0,
+                "pseudoaligned_reads": 96993.0,
+                "not_pseudoaligned_reads": 459117.0,
+                "percent_aligned": 17.441333549117978,
+                "fragment_length": 461.0
+            },
+            "LA182_S8_L001_R1_001_trim": {
+                "total_reads": 74669.0,
+                "pseudoaligned_reads": 67868.0,
+                "not_pseudoaligned_reads": 6801.0,
+                "percent_aligned": 90.8918024883151,
+                "fragment_length": 0.0
+            },
+            "267_S64_L001_R1_001_trim": {
+                "total_reads": 136200.0,
+                "pseudoaligned_reads": 3267.0,
+                "not_pseudoaligned_reads": 132933.0,
+                "percent_aligned": 2.398678414096916,
+                "fragment_length": 0.0
+            },
+            "247_S86_L001_R1_001_trim": {
+                "total_reads": 53423.0,
+                "pseudoaligned_reads": 35860.0,
+                "not_pseudoaligned_reads": 17563.0,
+                "percent_aligned": 67.12464668775621,
+                "fragment_length": 0.0
+            },
+            "LA67_S52_L001_R1_001_trim": {
+                "total_reads": 151659.0,
+                "pseudoaligned_reads": 3764.0,
+                "not_pseudoaligned_reads": 147895.0,
+                "percent_aligned": 2.481883699615585,
+                "fragment_length": 0.0
+            },
+            "LA126_S51_L001_R1_001_trim": {
+                "total_reads": 61677.0,
+                "pseudoaligned_reads": 25606.0,
+                "not_pseudoaligned_reads": 36071.0,
+                "percent_aligned": 41.516286460106684,
+                "fragment_length": 0.0
+            },
+            "CB24_S23_L001_R1_001_trim": {
+                "total_reads": 243772.0,
+                "pseudoaligned_reads": 218453.0,
+                "not_pseudoaligned_reads": 25319.0,
+                "percent_aligned": 89.61365538289877,
+                "fragment_length": 0.0
+            },
+            "LA143_S76_L001_R1_001_trim": {
+                "total_reads": 79190.0,
+                "pseudoaligned_reads": 1594.0,
+                "not_pseudoaligned_reads": 77596.0,
+                "percent_aligned": 2.0128804141937113,
+                "fragment_length": 0.0
+            },
+            "58_S19_L001_R1_001_trim": {
+                "total_reads": 95248.0,
+                "pseudoaligned_reads": 66589.0,
+                "not_pseudoaligned_reads": 28659.0,
+                "percent_aligned": 69.9111792373593,
+                "fragment_length": 303.0
+            },
+            "LA148_S29_L001_R1_001_trim": {
+                "total_reads": 76740.0,
+                "pseudoaligned_reads": 1855.0,
+                "not_pseudoaligned_reads": 74885.0,
+                "percent_aligned": 2.417253062288246,
+                "fragment_length": 0.0
+            },
+            "LA48_S60_L001_R1_001_trim": {
+                "total_reads": 108668.0,
+                "pseudoaligned_reads": 35845.0,
+                "not_pseudoaligned_reads": 72823.0,
+                "percent_aligned": 32.98579158537932,
+                "fragment_length": 0.0
+            },
+            "LA142_S64_L001_R1_001_trim": {
+                "total_reads": 70026.0,
+                "pseudoaligned_reads": 1341.0,
+                "not_pseudoaligned_reads": 68685.0,
+                "percent_aligned": 1.915002998886128,
+                "fragment_length": 0.0
+            },
+            "LA45_S28_L001_R1_001_trim": {
+                "total_reads": 145230.0,
+                "pseudoaligned_reads": 132848.0,
+                "not_pseudoaligned_reads": 12382.0,
+                "percent_aligned": 91.47421331680782,
+                "fragment_length": 0.0
+            },
+            "LA123_S15_L001_R1_001_trim": {
+                "total_reads": 63867.0,
+                "pseudoaligned_reads": 40029.0,
+                "not_pseudoaligned_reads": 23838.0,
+                "percent_aligned": 62.67556014843346,
+                "fragment_length": 0.0
+            },
+            "LA87_S32_L001_R1_001_trim": {
+                "total_reads": 45740.0,
+                "pseudoaligned_reads": 4396.0,
+                "not_pseudoaligned_reads": 41344.0,
+                "percent_aligned": 9.610843900306078,
+                "fragment_length": 0.0
+            },
+            "LA38_S59_L001_R1_001_trim": {
+                "total_reads": 195344.0,
+                "pseudoaligned_reads": 2699.0,
+                "not_pseudoaligned_reads": 192645.0,
+                "percent_aligned": 1.381665165042182,
+                "fragment_length": 0.0
+            },
+            "LA161_S89_L001_R1_001_trim": {
+                "total_reads": 78255.0,
+                "pseudoaligned_reads": 32248.0,
+                "not_pseudoaligned_reads": 46007.0,
+                "percent_aligned": 41.208868442911,
+                "fragment_length": 0.0
+            },
+            "LA172_S31_L001_R1_001_trim": {
+                "total_reads": 52556.0,
+                "pseudoaligned_reads": 3826.0,
+                "not_pseudoaligned_reads": 48730.0,
+                "percent_aligned": 7.279853870157546,
+                "fragment_length": 0.0
+            },
+            "LA66_S41_L001_R1_001_trim": {
+                "total_reads": 101622.0,
+                "pseudoaligned_reads": 12532.0,
+                "not_pseudoaligned_reads": 89090.0,
+                "percent_aligned": 12.331975359666213,
+                "fragment_length": 0.0
+            },
+            "LA153_S77_L001_R1_001_trim": {
+                "total_reads": 62898.0,
+                "pseudoaligned_reads": 48371.0,
+                "not_pseudoaligned_reads": 14527.0,
+                "percent_aligned": 76.90387611688766,
+                "fragment_length": 0.0
+            },
+            "244_S45_L001_R1_001_trim": {
+                "total_reads": 109762.0,
+                "pseudoaligned_reads": 77424.0,
+                "not_pseudoaligned_reads": 32338.0,
+                "percent_aligned": 70.53807328583663,
+                "fragment_length": 172.0
+            },
+            "155_S44_L001_R1_001_trim": {
+                "total_reads": 217238.0,
+                "pseudoaligned_reads": 42825.0,
+                "not_pseudoaligned_reads": 174413.0,
+                "percent_aligned": 19.713401891013543,
+                "fragment_length": 172.0
+            },
+            "LA122_S3_L001_R1_001_trim": {
+                "total_reads": 85603.0,
+                "pseudoaligned_reads": 41685.0,
+                "not_pseudoaligned_reads": 43918.0,
+                "percent_aligned": 48.69572328072614,
+                "fragment_length": 0.0
+            },
+            "258_S81_L001_R1_001_trim": {
+                "total_reads": 196829.0,
+                "pseudoaligned_reads": 48120.0,
+                "not_pseudoaligned_reads": 148709.0,
+                "percent_aligned": 24.447616967011975,
+                "fragment_length": 172.0
+            },
+            "ORCL9_S32_L001_R1_001_trim": {
+                "total_reads": 192370.0,
+                "pseudoaligned_reads": 170739.0,
+                "not_pseudoaligned_reads": 21631.0,
+                "percent_aligned": 88.75552321047981,
+                "fragment_length": 0.0
+            },
+            "139_S91_L001_R1_001_trim": {
+                "total_reads": 227076.0,
+                "pseudoaligned_reads": 143673.0,
+                "not_pseudoaligned_reads": 83403.0,
+                "percent_aligned": 63.2708872800296,
+                "fragment_length": 171.8
+            },
+            "LA129_S87_L001_R1_001_trim": {
+                "total_reads": 88909.0,
+                "pseudoaligned_reads": 66085.0,
+                "not_pseudoaligned_reads": 22824.0,
+                "percent_aligned": 74.32880810716576,
+                "fragment_length": 0.0
+            },
+            "LA145_S88_L001_R1_001_trim": {
+                "total_reads": 112033.0,
+                "pseudoaligned_reads": 86659.0,
+                "not_pseudoaligned_reads": 25374.0,
+                "percent_aligned": 77.35131613006881,
+                "fragment_length": 0.0
+            },
+            "LA96_S44_L001_R1_001_trim": {
+                "total_reads": 71287.0,
+                "pseudoaligned_reads": 7496.0,
+                "not_pseudoaligned_reads": 63791.0,
+                "percent_aligned": 10.515241208074404,
+                "fragment_length": 0.0
+            },
+            "LA188_S80_L001_R1_001_trim": {
+                "total_reads": 46513.0,
+                "pseudoaligned_reads": 761.0,
+                "not_pseudoaligned_reads": 45752.0,
+                "percent_aligned": 1.6361017349988176,
+                "fragment_length": 0.0
+            },
+            "LA104_S73_L001_R1_001_trim": {
+                "total_reads": 57959.0,
+                "pseudoaligned_reads": 42512.0,
+                "not_pseudoaligned_reads": 15447.0,
+                "percent_aligned": 73.3484014562018,
+                "fragment_length": 0.0
+            },
+            "228_S9_L001_R1_001_trim": {
+                "total_reads": 96680.0,
+                "pseudoaligned_reads": 13323.0,
+                "not_pseudoaligned_reads": 83357.0,
+                "percent_aligned": 13.780513032685146,
+                "fragment_length": 0.0
+            },
+            "ORCL8_S16_L001_R1_001_trim": {
+                "total_reads": 70861.0,
+                "pseudoaligned_reads": 62633.0,
+                "not_pseudoaligned_reads": 8228.0,
+                "percent_aligned": 88.38853530150577,
+                "fragment_length": 0.0
+            },
+            "54_S7_L001_R1_001_trim": {
+                "total_reads": 99914.0,
+                "pseudoaligned_reads": 65706.0,
+                "not_pseudoaligned_reads": 34208.0,
+                "percent_aligned": 65.76255579798627,
+                "fragment_length": 0.0
+            },
+            "LA124_S27_L001_R1_001_trim": {
+                "total_reads": 104932.0,
+                "pseudoaligned_reads": 27130.0,
+                "not_pseudoaligned_reads": 77802.0,
+                "percent_aligned": 25.854839324514924,
+                "fragment_length": 0.0
+            },
+            "LA184_S32_L001_R1_001_trim": {
+                "total_reads": 54064.0,
+                "pseudoaligned_reads": 44415.0,
+                "not_pseudoaligned_reads": 9649.0,
+                "percent_aligned": 82.15263391535957,
+                "fragment_length": 0.0
+            },
+            "LA116_S62_L001_R1_001_trim": {
+                "total_reads": 132936.0,
+                "pseudoaligned_reads": 2942.0,
+                "not_pseudoaligned_reads": 129994.0,
+                "percent_aligned": 2.2130950231690436,
+                "fragment_length": 0.0
+            },
+            "LA164_S30_L001_R1_001_trim": {
+                "total_reads": 129491.0,
+                "pseudoaligned_reads": 3792.0,
+                "not_pseudoaligned_reads": 125699.0,
+                "percent_aligned": 2.9283888455568343,
+                "fragment_length": 0.0
+            },
+            "LA100_S25_L001_R1_001_trim": {
+                "total_reads": 96888.0,
+                "pseudoaligned_reads": 10148.0,
+                "not_pseudoaligned_reads": 86740.0,
+                "percent_aligned": 10.473949302287176,
+                "fragment_length": 0.0
+            },
+            "LA94_S22_L001_R1_001_trim": {
+                "total_reads": 82259.0,
+                "pseudoaligned_reads": 75423.0,
+                "not_pseudoaligned_reads": 6836.0,
+                "percent_aligned": 91.68966313716432,
+                "fragment_length": 0.0
+            },
+            "LA91_S74_L001_R1_001_trim": {
+                "total_reads": 56087.0,
+                "pseudoaligned_reads": 45219.0,
+                "not_pseudoaligned_reads": 10868.0,
+                "percent_aligned": 80.62296075739475,
+                "fragment_length": 0.0
+            },
+            "LA101_S37_L001_R1_001_trim": {
+                "total_reads": 71176.0,
+                "pseudoaligned_reads": 47629.0,
+                "not_pseudoaligned_reads": 23547.0,
+                "percent_aligned": 66.91721928740024,
+                "fragment_length": 0.0
+            },
+            "LA179_S79_L001_R1_001_trim": {
+                "total_reads": 49378.0,
+                "pseudoaligned_reads": 37230.0,
+                "not_pseudoaligned_reads": 12148.0,
+                "percent_aligned": 75.39795050427315,
+                "fragment_length": 0.0
+            },
+            "LA185_S44_L001_R1_001_trim": {
+                "total_reads": 46575.0,
+                "pseudoaligned_reads": 39539.0,
+                "not_pseudoaligned_reads": 7036.0,
+                "percent_aligned": 84.89318303811058,
+                "fragment_length": 0.0
+            },
+            "WAFL8_S8_L001_R1_001_trim": {
+                "total_reads": 163981.0,
+                "pseudoaligned_reads": 26576.0,
+                "not_pseudoaligned_reads": 137405.0,
+                "percent_aligned": 16.20675566071679,
+                "fragment_length": 0.0
+            },
+            "LA150_S53_L001_R1_001_trim": {
+                "total_reads": 116.0,
+                "pseudoaligned_reads": 2.0,
+                "not_pseudoaligned_reads": 114.0,
+                "percent_aligned": 1.7241379310344827,
+                "fragment_length": 0.0
+            },
+            "LA108_S14_L001_R1_001_trim": {
+                "total_reads": 119235.0,
+                "pseudoaligned_reads": 59997.0,
+                "not_pseudoaligned_reads": 59238.0,
+                "percent_aligned": 50.318279028808654,
+                "fragment_length": 0.0
+            },
+            "LA166_S54_L001_R1_001_trim": {
+                "total_reads": 66683.0,
+                "pseudoaligned_reads": 62624.0,
+                "not_pseudoaligned_reads": 4059.0,
+                "percent_aligned": 93.91299131712731,
+                "fragment_length": 0.0
+            },
+            "BCQL3_S45_L001_R1_001_trim": {
+                "total_reads": 290432.0,
+                "pseudoaligned_reads": 34480.0,
+                "not_pseudoaligned_reads": 255952.0,
+                "percent_aligned": 11.871970030850596,
+                "fragment_length": 0.0
+            },
+            "LA105_S85_L001_R1_001_trim": {
+                "total_reads": 52695.0,
+                "pseudoaligned_reads": 37071.0,
+                "not_pseudoaligned_reads": 15624.0,
+                "percent_aligned": 70.35012809564475,
+                "fragment_length": 0.0
+            },
+            "LA64_S19_L001_R1_001_trim": {
+                "total_reads": 189792.0,
+                "pseudoaligned_reads": 84627.0,
+                "not_pseudoaligned_reads": 105165.0,
+                "percent_aligned": 44.58933990895296,
+                "fragment_length": 0.0
+            },
+            "LA39_S69_L001_R1_001_trim": {
+                "total_reads": 157254.0,
+                "pseudoaligned_reads": 8864.0,
+                "not_pseudoaligned_reads": 148390.0,
+                "percent_aligned": 5.6367405598585725,
+                "fragment_length": 0.0
+            },
+            "SDBL5_S40_L001_R1_001_trim": {
+                "total_reads": 219876.0,
+                "pseudoaligned_reads": 193788.0,
+                "not_pseudoaligned_reads": 26088.0,
+                "percent_aligned": 88.13513071003656,
+                "fragment_length": 0.0
+            },
+            "AKDL5_S15_L001_R1_001_trim": {
+                "total_reads": 157975.0,
+                "pseudoaligned_reads": 134279.0,
+                "not_pseudoaligned_reads": 23696.0,
+                "percent_aligned": 85.00015825288811,
+                "fragment_length": 447.0
+            },
+            "LA80_S42_L001_R1_001_trim": {
+                "total_reads": 97539.0,
+                "pseudoaligned_reads": 77624.0,
+                "not_pseudoaligned_reads": 19915.0,
+                "percent_aligned": 79.58252596397338,
+                "fragment_length": 0.0
+            },
+            "LA183_S20_L001_R1_001_trim": {
+                "total_reads": 74316.0,
+                "pseudoaligned_reads": 64520.0,
+                "not_pseudoaligned_reads": 9796.0,
+                "percent_aligned": 86.81845093923248,
+                "fragment_length": 0.0
+            },
+            "286_S75_L001_R1_001_trim": {
+                "total_reads": 125803.0,
+                "pseudoaligned_reads": 2568.0,
+                "not_pseudoaligned_reads": 123235.0,
+                "percent_aligned": 2.0412867737653313,
+                "fragment_length": 0.0
+            },
+            "LA173_S43_L001_R1_001_trim": {
+                "total_reads": 70933.0,
+                "pseudoaligned_reads": 2115.0,
+                "not_pseudoaligned_reads": 68818.0,
+                "percent_aligned": 2.981686944017594,
+                "fragment_length": 0.0
+            },
+            "LA118_S74_L001_R1_001_trim": {
+                "total_reads": 14589.0,
+                "pseudoaligned_reads": 342.0,
+                "not_pseudoaligned_reads": 14247.0,
+                "percent_aligned": 2.344231955582974,
+                "fragment_length": 0.0
+            },
+            "210_S85_L001_R1_001_trim": {
+                "total_reads": 47258.0,
+                "pseudoaligned_reads": 35709.0,
+                "not_pseudoaligned_reads": 11549.0,
+                "percent_aligned": 75.56180964069576,
+                "fragment_length": 0.0
+            },
+            "AKFL10_S7_L001_R1_001_trim": {
+                "total_reads": 297379.0,
+                "pseudoaligned_reads": 263479.0,
+                "not_pseudoaligned_reads": 33900.0,
+                "percent_aligned": 88.60040554309484,
+                "fragment_length": 0.0
+            },
+            "LA41_S6_L001_R1_001_trim": {
+                "total_reads": 115415.0,
+                "pseudoaligned_reads": 5774.0,
+                "not_pseudoaligned_reads": 109641.0,
+                "percent_aligned": 5.002815925139713,
+                "fragment_length": 0.0
+            },
+            "LA34_S16_L001_R1_001_trim": {
+                "total_reads": 126444.0,
+                "pseudoaligned_reads": 105531.0,
+                "not_pseudoaligned_reads": 20913.0,
+                "percent_aligned": 83.46066242763595,
+                "fragment_length": 0.0
+            },
+            "LA40_S79_L001_R1_001_trim": {
+                "total_reads": 100131.0,
+                "pseudoaligned_reads": 2621.0,
+                "not_pseudoaligned_reads": 97510.0,
+                "percent_aligned": 2.617570982013562,
+                "fragment_length": 0.0
+            },
+            "LA63_S8_L001_R1_001_trim": {
+                "total_reads": 173574.0,
+                "pseudoaligned_reads": 7850.0,
+                "not_pseudoaligned_reads": 165724.0,
+                "percent_aligned": 4.522566743867169,
+                "fragment_length": 0.0
+            },
+            "195_S1_L001_R1_001_trim": {
+                "total_reads": 48951.0,
+                "pseudoaligned_reads": 5835.0,
+                "not_pseudoaligned_reads": 43116.0,
+                "percent_aligned": 11.920083348654776,
+                "fragment_length": 0.0
+            },
+            "212_S6_L001_R1_001_trim": {
+                "total_reads": 101963.0,
+                "pseudoaligned_reads": 84916.0,
+                "not_pseudoaligned_reads": 17047.0,
+                "percent_aligned": 83.28119023567373,
+                "fragment_length": 0.0
+            },
+            "LA170_S7_L001_R1_001_trim": {
+                "total_reads": 115160.0,
+                "pseudoaligned_reads": 1641.0,
+                "not_pseudoaligned_reads": 113519.0,
+                "percent_aligned": 1.4249739492879472,
+                "fragment_length": 0.0
+            },
+            "221_S26_L001_R1_001_trim": {
+                "total_reads": 71502.0,
+                "pseudoaligned_reads": 58455.0,
+                "not_pseudoaligned_reads": 13047.0,
+                "percent_aligned": 81.75295795921792,
+                "fragment_length": 0.0
+            },
+            "WAAL6_S63_L001_R1_001_trim": {
+                "total_reads": 356259.0,
+                "pseudoaligned_reads": 301035.0,
+                "not_pseudoaligned_reads": 55224.0,
+                "percent_aligned": 84.49891792207355,
+                "fragment_length": 0.0
+            },
+            "LA110_S26_L001_R1_001_trim": {
+                "total_reads": 83914.0,
+                "pseudoaligned_reads": 67600.0,
+                "not_pseudoaligned_reads": 16314.0,
+                "percent_aligned": 80.5586672069023,
+                "fragment_length": 0.0
+            },
+            "LA130_S4_L001_R1_001_trim": {
+                "total_reads": 11418.0,
+                "pseudoaligned_reads": 308.0,
+                "not_pseudoaligned_reads": 11110.0,
+                "percent_aligned": 2.697495183044316,
+                "fragment_length": 0.0
+            },
+            "259_S51_L001_R1_001_trim": {
+                "total_reads": 111902.0,
+                "pseudoaligned_reads": 95472.0,
+                "not_pseudoaligned_reads": 16430.0,
+                "percent_aligned": 85.31750996407571,
+                "fragment_length": 0.0
+            },
+            "LA163_S18_L001_R1_001_trim": {
+                "total_reads": 86721.0,
+                "pseudoaligned_reads": 70576.0,
+                "not_pseudoaligned_reads": 16145.0,
+                "percent_aligned": 81.38282538254863,
+                "fragment_length": 0.0
+            },
+            "216_S42_L001_R1_001_trim": {
+                "total_reads": 134974.0,
+                "pseudoaligned_reads": 95791.0,
+                "not_pseudoaligned_reads": 39183.0,
+                "percent_aligned": 70.96996458577208,
+                "fragment_length": 0.0
+            },
+            "LA128_S75_L001_R1_001_trim": {
+                "total_reads": 43190.0,
+                "pseudoaligned_reads": 1950.0,
+                "not_pseudoaligned_reads": 41240.0,
+                "percent_aligned": 4.514934012502894,
+                "fragment_length": 0.0
+            },
+            "LA121_S86_L001_R1_001_trim": {
+                "total_reads": 52581.0,
+                "pseudoaligned_reads": 27922.0,
+                "not_pseudoaligned_reads": 24659.0,
+                "percent_aligned": 53.10283182138035,
+                "fragment_length": 0.0
+            },
+            "SDAL17_S53_L001_R1_001_trim": {
+                "total_reads": 504520.0,
+                "pseudoaligned_reads": 48815.0,
+                "not_pseudoaligned_reads": 455705.0,
+                "percent_aligned": 9.675533180052327,
+                "fragment_length": 0.0
+            },
+            "LA98_S13_L001_R1_001_trim": {
+                "total_reads": 62621.0,
+                "pseudoaligned_reads": 26487.0,
+                "not_pseudoaligned_reads": 36134.0,
+                "percent_aligned": 42.29731240318743,
+                "fragment_length": 0.0
+            },
+            "LA186_S56_L001_R1_001_trim": {
+                "total_reads": 55619.0,
+                "pseudoaligned_reads": 25471.0,
+                "not_pseudoaligned_reads": 30148.0,
+                "percent_aligned": 45.79550153724446,
+                "fragment_length": 0.0
+            },
+            "LA62_S81_L001_R1_001_trim": {
+                "total_reads": 232524.0,
+                "pseudoaligned_reads": 6790.0,
+                "not_pseudoaligned_reads": 225734.0,
+                "percent_aligned": 2.9201286748894737,
+                "fragment_length": 0.0
+            },
+            "LA147_S17_L001_R1_001_trim": {
+                "total_reads": 121498.0,
+                "pseudoaligned_reads": 4687.0,
+                "not_pseudoaligned_reads": 116811.0,
+                "percent_aligned": 3.8576766695748077,
+                "fragment_length": 223.0
+            },
+            "CB26_S39_L001_R1_001_trim": {
+                "total_reads": 216558.0,
+                "pseudoaligned_reads": 190080.0,
+                "not_pseudoaligned_reads": 26478.0,
+                "percent_aligned": 87.77325243121935,
+                "fragment_length": 0.0
+            },
+            "LA30_S78_L001_R1_001_trim": {
+                "total_reads": 102048.0,
+                "pseudoaligned_reads": 18981.0,
+                "not_pseudoaligned_reads": 83067.0,
+                "percent_aligned": 18.60007055503293,
+                "fragment_length": 0.0
+            },
+            "276_S41_L001_R1_001_trim": {
+                "total_reads": 69759.0,
+                "pseudoaligned_reads": 30095.0,
+                "not_pseudoaligned_reads": 39664.0,
+                "percent_aligned": 43.141386774466376,
+                "fragment_length": 0.0
+            },
+            "CB39_S56_L001_R1_001_trim": {
+                "total_reads": 611915.0,
+                "pseudoaligned_reads": 543535.0,
+                "not_pseudoaligned_reads": 68380.0,
+                "percent_aligned": 88.82524533636207,
+                "fragment_length": 0.0
+            },
+            "LA177_S67_L001_R1_001_trim": {
+                "total_reads": 86728.0,
+                "pseudoaligned_reads": 40047.0,
+                "not_pseudoaligned_reads": 46681.0,
+                "percent_aligned": 46.17539894843649,
+                "fragment_length": 0.0
+            },
+            "LA151_S65_L001_R1_001_trim": {
+                "total_reads": 65694.0,
+                "pseudoaligned_reads": 1129.0,
+                "not_pseudoaligned_reads": 64565.0,
+                "percent_aligned": 1.718573994580936,
+                "fragment_length": 0.0
+            },
+            "269_S88_L001_R1_001_trim": {
+                "total_reads": 240866.0,
+                "pseudoaligned_reads": 3849.0,
+                "not_pseudoaligned_reads": 237017.0,
+                "percent_aligned": 1.597983941278553,
+                "fragment_length": 0.0
+            },
+            "278_S93_L001_R1_001_trim": {
+                "total_reads": 99355.0,
+                "pseudoaligned_reads": 84335.0,
+                "not_pseudoaligned_reads": 15020.0,
+                "percent_aligned": 84.8824920738765,
+                "fragment_length": 0.0
+            },
+            "LA114_S38_L001_R1_001_trim": {
+                "total_reads": 152206.0,
+                "pseudoaligned_reads": 3537.0,
+                "not_pseudoaligned_reads": 148669.0,
+                "percent_aligned": 2.323824290763833,
+                "fragment_length": 0.0
+            },
+            "WABL8_S55_L001_R1_001_trim": {
+                "total_reads": 357082.0,
+                "pseudoaligned_reads": 320176.0,
+                "not_pseudoaligned_reads": 36906.0,
+                "percent_aligned": 89.66455884082649,
+                "fragment_length": 0.0
+            },
+            "LA106_S2_L001_R1_001_trim": {
+                "total_reads": 178768.0,
+                "pseudoaligned_reads": 42608.0,
+                "not_pseudoaligned_reads": 136160.0,
+                "percent_aligned": 23.83424326501387,
+                "fragment_length": 0.0
+            },
+            "LA165_S42_L001_R1_001_trim": {
+                "total_reads": 75210.0,
+                "pseudoaligned_reads": 60716.0,
+                "not_pseudoaligned_reads": 14494.0,
+                "percent_aligned": 80.72862651243186,
+                "fragment_length": 0.0
+            },
+            "LA175_S55_L001_R1_001_trim": {
+                "total_reads": 41328.0,
+                "pseudoaligned_reads": 1711.0,
+                "not_pseudoaligned_reads": 39617.0,
+                "percent_aligned": 4.14005032907472,
+                "fragment_length": 0.0
+            },
+            "LA127_S63_L001_R1_001_trim": {
+                "total_reads": 93877.0,
+                "pseudoaligned_reads": 5738.0,
+                "not_pseudoaligned_reads": 88139.0,
+                "percent_aligned": 6.112253267573528,
+                "fragment_length": 0.0
+            },
+            "BCAL4_S47_L001_R1_001_trim": {
+                "total_reads": 419146.0,
+                "pseudoaligned_reads": 133431.0,
+                "not_pseudoaligned_reads": 285715.0,
+                "percent_aligned": 31.83401487787072,
+                "fragment_length": 0.0
+            },
+            "LA89_S54_L001_R1_001_trim": {
+                "total_reads": 203883.0,
+                "pseudoaligned_reads": 24509.0,
+                "not_pseudoaligned_reads": 179374.0,
+                "percent_aligned": 12.021110146505594,
+                "fragment_length": 0.0
+            },
+            "LA95_S33_L001_R1_001_trim": {
+                "total_reads": 52144.0,
+                "pseudoaligned_reads": 3493.0,
+                "not_pseudoaligned_reads": 48651.0,
+                "percent_aligned": 6.698757287511508,
+                "fragment_length": 0.0
+            },
+            "LA169_S90_L001_R1_001_trim": {
+                "total_reads": 95330.0,
+                "pseudoaligned_reads": 49284.0,
+                "not_pseudoaligned_reads": 46046.0,
+                "percent_aligned": 51.69831112975978,
+                "fragment_length": 421.0
+            },
+            "BBDL4_S61_L001_R1_001_trim": {
+                "total_reads": 190916.0,
+                "pseudoaligned_reads": 19821.0,
+                "not_pseudoaligned_reads": 171095.0,
+                "percent_aligned": 10.382052839992458,
+                "fragment_length": 0.0
+            },
+            "LA97_S1_L001_R1_001_trim": {
+                "total_reads": 47156.0,
+                "pseudoaligned_reads": 34304.0,
+                "not_pseudoaligned_reads": 12852.0,
+                "percent_aligned": 72.74577996437357,
+                "fragment_length": 0.0
+            }
+        },
+        "multiqc_general_stats": {
+            "LA171_S19_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.113949807822745,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1496.0
+            },
+            "LA149_S41_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.9201698240648417,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1194.0
+            },
+            "LA187_S68_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 49.54865960418299,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 14546.0
+            },
+            "BBFL4_S64_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 39.63066592053721,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 276198.0
+            },
+            "BCEL5_S31_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 44.391060855312,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 149494.0
+            },
+            "LA115_S50_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.0555603337060293,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 956.0
+            },
+            "LA141_S52_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.4238030962022363,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2909.0
+            },
+            "242_S21_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 172.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 43.48270947060876,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 73521.0
+            },
+            "176_S80_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 172.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 41.53898337936715,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 42862.0
+            },
+            "LA162_S6_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 85.41106024068313,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 73316.0
+            },
+            "LA180_S91_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 57.80677080717263,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 46035.0
+            },
+            "LA132_S16_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 421.04,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 18.029544960151878,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 9117.0
+            },
+            "LA82_S63_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.381611045444257,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3788.0
+            },
+            "LA7_S47_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 7.416200711288557,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 7653.0
+            },
+            "LA167_S66_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 91.35221841513716,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 83717.0
+            },
+            "ORDL8_S24_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 88.42462265154101,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 157998.0
+            },
+            "LA6_S36_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 7.545149263597663,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 5707.0
+            },
+            "239_S74_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 5.6220612997911275,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 6110.0
+            },
+            "LA168_S78_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 72.16380016380016,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 66084.0
+            },
+            "287_S87_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 22.80995250584816,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 32178.0
+            },
+            "LA137_S28_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 81.24204872072751,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 68968.0
+            },
+            "LA103_S61_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 79.2222775782049,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 60426.0
+            },
+            "LA125_S39_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 59.62885078153792,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 55010.0
+            },
+            "LA146_S5_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.7151284757097631,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1349.0
+            },
+            "LA22_S15_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 6.665662778167307,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 14165.0
+            },
+            "SDCL10_S48_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 86.59979238254904,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 312000.0
+            },
+            "LA138_S40_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.8486871097066822,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1720.0
+            },
+            "LA102_S49_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 86.92220360058388,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 80390.0
+            },
+            "265_S52_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 75.14959391549019,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 61162.0
+            },
+            "LA31_S5_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 91.64523925347665,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 118687.0
+            },
+            "274_S17_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 17.300676918183356,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 17405.0
+            },
+            "AKAL9_S37_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 461.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 17.441333549117978,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 96993.0
+            },
+            "LA182_S8_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 90.8918024883151,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 67868.0
+            },
+            "267_S64_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.398678414096916,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3267.0
+            },
+            "247_S86_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 67.12464668775621,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 35860.0
+            },
+            "LA67_S52_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.481883699615585,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3764.0
+            },
+            "LA126_S51_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 41.516286460106684,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 25606.0
+            },
+            "CB24_S23_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 89.61365538289877,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 218453.0
+            },
+            "LA143_S76_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.0128804141937113,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1594.0
+            },
+            "58_S19_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 303.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 69.9111792373593,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 66589.0
+            },
+            "LA148_S29_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.417253062288246,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1855.0
+            },
+            "LA48_S60_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 32.98579158537932,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 35845.0
+            },
+            "LA142_S64_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.915002998886128,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1341.0
+            },
+            "LA45_S28_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 91.47421331680782,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 132848.0
+            },
+            "LA123_S15_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 62.67556014843346,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 40029.0
+            },
+            "LA87_S32_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 9.610843900306078,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 4396.0
+            },
+            "LA38_S59_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.381665165042182,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2699.0
+            },
+            "LA161_S89_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 41.208868442911,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 32248.0
+            },
+            "LA172_S31_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 7.279853870157546,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3826.0
+            },
+            "LA66_S41_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 12.331975359666213,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 12532.0
+            },
+            "LA153_S77_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 76.90387611688766,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 48371.0
+            },
+            "244_S45_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 172.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 70.53807328583663,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 77424.0
+            },
+            "155_S44_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 172.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 19.713401891013543,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 42825.0
+            },
+            "LA122_S3_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 48.69572328072614,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 41685.0
+            },
+            "258_S81_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 172.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 24.447616967011975,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 48120.0
+            },
+            "ORCL9_S32_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 88.75552321047981,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 170739.0
+            },
+            "139_S91_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 171.8,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 63.2708872800296,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 143673.0
+            },
+            "LA129_S87_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 74.32880810716576,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 66085.0
+            },
+            "LA145_S88_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 77.35131613006881,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 86659.0
+            },
+            "LA96_S44_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 10.515241208074404,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 7496.0
+            },
+            "LA188_S80_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.6361017349988176,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 761.0
+            },
+            "LA104_S73_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 73.3484014562018,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 42512.0
+            },
+            "228_S9_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 13.780513032685146,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 13323.0
+            },
+            "ORCL8_S16_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 88.38853530150577,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 62633.0
+            },
+            "54_S7_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 65.76255579798627,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 65706.0
+            },
+            "LA124_S27_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 25.854839324514924,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 27130.0
+            },
+            "LA184_S32_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 82.15263391535957,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 44415.0
+            },
+            "LA116_S62_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.2130950231690436,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2942.0
+            },
+            "LA164_S30_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.9283888455568343,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3792.0
+            },
+            "LA100_S25_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 10.473949302287176,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 10148.0
+            },
+            "LA94_S22_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 91.68966313716432,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 75423.0
+            },
+            "LA91_S74_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 80.62296075739475,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 45219.0
+            },
+            "LA101_S37_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 66.91721928740024,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 47629.0
+            },
+            "LA179_S79_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 75.39795050427315,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 37230.0
+            },
+            "LA185_S44_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 84.89318303811058,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 39539.0
+            },
+            "WAFL8_S8_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 16.20675566071679,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 26576.0
+            },
+            "LA150_S53_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.7241379310344827,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2.0
+            },
+            "LA108_S14_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 50.318279028808654,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 59997.0
+            },
+            "LA166_S54_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 93.91299131712731,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 62624.0
+            },
+            "BCQL3_S45_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 11.871970030850596,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 34480.0
+            },
+            "LA105_S85_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 70.35012809564475,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 37071.0
+            },
+            "LA64_S19_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 44.58933990895296,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 84627.0
+            },
+            "LA39_S69_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 5.6367405598585725,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 8864.0
+            },
+            "SDBL5_S40_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 88.13513071003656,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 193788.0
+            },
+            "AKDL5_S15_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 447.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 85.00015825288811,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 134279.0
+            },
+            "LA80_S42_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 79.58252596397338,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 77624.0
+            },
+            "LA183_S20_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 86.81845093923248,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 64520.0
+            },
+            "286_S75_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.0412867737653313,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2568.0
+            },
+            "LA173_S43_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.981686944017594,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2115.0
+            },
+            "LA118_S74_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.344231955582974,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 342.0
+            },
+            "210_S85_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 75.56180964069576,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 35709.0
+            },
+            "AKFL10_S7_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 88.60040554309484,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 263479.0
+            },
+            "LA41_S6_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 5.002815925139713,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 5774.0
+            },
+            "LA34_S16_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 83.46066242763595,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 105531.0
+            },
+            "LA40_S79_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.617570982013562,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 2621.0
+            },
+            "LA63_S8_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 4.522566743867169,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 7850.0
+            },
+            "195_S1_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 11.920083348654776,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 5835.0
+            },
+            "212_S6_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 83.28119023567373,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 84916.0
+            },
+            "LA170_S7_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.4249739492879472,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1641.0
+            },
+            "221_S26_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 81.75295795921792,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 58455.0
+            },
+            "WAAL6_S63_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 84.49891792207355,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 301035.0
+            },
+            "LA110_S26_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 80.5586672069023,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 67600.0
+            },
+            "LA130_S4_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.697495183044316,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 308.0
+            },
+            "259_S51_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 85.31750996407571,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 95472.0
+            },
+            "LA163_S18_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 81.38282538254863,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 70576.0
+            },
+            "216_S42_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 70.96996458577208,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 95791.0
+            },
+            "LA128_S75_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 4.514934012502894,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1950.0
+            },
+            "LA121_S86_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 53.10283182138035,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 27922.0
+            },
+            "SDAL17_S53_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 9.675533180052327,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 48815.0
+            },
+            "LA98_S13_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 42.29731240318743,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 26487.0
+            },
+            "LA186_S56_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 45.79550153724446,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 25471.0
+            },
+            "LA62_S81_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.9201286748894737,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 6790.0
+            },
+            "LA147_S17_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 223.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 3.8576766695748077,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 4687.0
+            },
+            "CB26_S39_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 87.77325243121935,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 190080.0
+            },
+            "LA30_S78_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 18.60007055503293,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 18981.0
+            },
+            "276_S41_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 43.141386774466376,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 30095.0
+            },
+            "CB39_S56_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 88.82524533636207,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 543535.0
+            },
+            "LA177_S67_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 46.17539894843649,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 40047.0
+            },
+            "LA151_S65_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.718573994580936,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1129.0
+            },
+            "269_S88_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 1.597983941278553,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3849.0
+            },
+            "278_S93_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 84.8824920738765,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 84335.0
+            },
+            "LA114_S38_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 2.323824290763833,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3537.0
+            },
+            "WABL8_S55_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 89.66455884082649,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 320176.0
+            },
+            "LA106_S2_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 23.83424326501387,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 42608.0
+            },
+            "LA165_S42_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 80.72862651243186,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 60716.0
+            },
+            "LA175_S55_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 4.14005032907472,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 1711.0
+            },
+            "LA127_S63_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 6.112253267573528,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 5738.0
+            },
+            "BCAL4_S47_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 31.83401487787072,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 133431.0
+            },
+            "LA89_S54_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 12.021110146505594,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 24509.0
+            },
+            "LA95_S33_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 6.698757287511508,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 3493.0
+            },
+            "LA169_S90_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 421.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 51.69831112975978,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 49284.0
+            },
+            "BBDL4_S61_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 10.382052839992458,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 19821.0
+            },
+            "LA97_S1_L001_R1_001_trim": {
+                "Kallisto_mqc-generalstats-kallisto-fragment_length": 0.0,
+                "Kallisto_mqc-generalstats-kallisto-percent_aligned": 72.74577996437357,
+                "Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads": 34304.0
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/home/shared/8TB_HDD_03/sr320/github/laby-18s/output/04-kallisto"
+    ],
+    "config_analysis_dir": [
+        "../output/04-kallisto/"
+    ],
+    "config_creation_date": "2024-06-04, 13:45",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/opt/anaconda/anaconda3/lib/python3.9/site-packages/multiqc/utils",
+    "config_short_version": "1.12",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.12"
+}
