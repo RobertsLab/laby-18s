@@ -1,0 +1,97 @@
+---
+title: "03-kallisto"
+author: "Steven Roberts"
+date: "`r format(Sys.time(), '%d %B, %Y')`"  
+output: 
+  github_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    html_preview: true
+  html_document:
+    theme: readable
+    highlight: zenburn
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: show
+    code_download: true
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(tidyverse)
+library(kableExtra)
+library(DT)
+library(Biostrings)
+library(tm)
+library(pheatmap)
+library(DESeq2)
+knitr::opts_chunk$set(
+  echo = TRUE,         # Display code chunks
+  eval = FALSE,         # Evaluate code chunks
+  warning = FALSE,     # Hide warnings
+  message = FALSE,     # Hide messages
+  fig.width = 6,       # Set plot width in inches
+  fig.height = 4,      # Set plot height in inches
+  fig.align = "center", # Align plots to the center
+  comment = ""         # Prevents appending '##' to beginning of lines in code output
+)
+```
+
+
+
+
+Reads
+
+```{r, engine='bash', eval=TRUE}
+ls ../data/
+```
+
+#laby 18s
+
+
+```{bash}
+head ../data/*fasta
+```
+
+
+```{bash}
+/home/shared/kallisto/kallisto index \
+-i ../output/03-kallisto/18slaby.index \
+../data/laby18s-sequence.fasta
+```
+
+
+```{bash}
+find ../data/*_L001_R1_001.fastq.gz | xargs basename -s _L001_R1_001.fastq.gz \
+| xargs -I{} sh -c '/home/shared/kallisto/kallisto quant \
+-i ../output/03-kallisto/18slaby.index \
+-o ../output/03-kallisto/{} \
+-t 20 \
+--fr-stranded ../data/{}_L001_R1_001.fastq.gz \
+--rf-stranded ../data/{}_L001_R2_001.fastq.gz \
+> ../output/03-kallisto/{}_kal.stdout 2> ../output/03-kallisto/{}_kal.stderr'
+```
+
+
+```{r, engine='bash'}
+eval "$(/opt/anaconda/anaconda3/bin/conda shell.bash hook)"
+conda activate
+which multiqc
+
+
+multiqc ../output/03-kallisto/ \
+-o ../output/03-kallisto/
+```
+
+```{bash}
+
+cat ../data/*fasta | grep ">"
+```
+
+
+
