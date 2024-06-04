@@ -1,1 +1,4 @@
 *.fastq.gz
+*fastq
+Laby*
+trimmed
